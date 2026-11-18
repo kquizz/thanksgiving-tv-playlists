@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1587678_3_4",
+    "type": "series",
+    "name": "Happy Endings: More Like Stanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt1587678/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/165/413270.jpg",
+    "description": "Happy Endings · Season 3, Episode 4 · aired 2012-11-20\n\nDave decides to give his friends an authentic Navajo Thanksgiving which doesn't go well. The rest of the gang watch the episode of Real World: Sacramento where they all went to visit Max.",
+    "releaseInfo": "2012",
+    "released": "2012-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1587678:3:4",
+        "title": "More Like Stanksgiving",
+        "season": 3,
+        "episode": 4,
+        "released": "2012-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/165/413270.jpg",
+        "overview": "Dave decides to give his friends an authentic Navajo Thanksgiving which doesn't go well. The rest of the gang watch the episode of Real World: Sacramento where they all went to visit Max."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1587678:3:4"
+    }
+  }
+}

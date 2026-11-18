@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0134247_1_9",
+    "type": "series",
+    "name": "Felicity: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0134247/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/312/780812.jpg",
+    "description": "Felicity · Season 1, Episode 9 · aired 1998-11-24\n\nFelicity's hurt when Noel downplays their friendship to his girlfriend, Hanna, who's visiting for Thanksgiving but may transfer to New York. Meanwhile, Elena begrudgingly visits her dad; and Ben can't locate his plane ticket.",
+    "releaseInfo": "1998",
+    "released": "1998-11-24T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0134247:1:9",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 9,
+        "released": "1998-11-24T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/312/780812.jpg",
+        "overview": "Felicity's hurt when Noel downplays their friendship to his girlfriend, Hanna, who's visiting for Thanksgiving but may transfer to New York. Meanwhile, Elena begrudgingly visits her dad; and Ben can't locate his plane ticket."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0134247:1:9"
+    }
+  }
+}

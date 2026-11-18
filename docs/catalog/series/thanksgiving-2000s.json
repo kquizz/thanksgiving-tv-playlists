@@ -1,0 +1,157 @@
+{
+  "metas": [
+    {
+      "id": "tgv_tt0200276_2_8",
+      "type": "series",
+      "name": "The West Wing: Shibboleth",
+      "poster": "https://images.metahub.space/poster/medium/tt0200276/img",
+      "posterShape": "poster",
+      "description": "The West Wing · S2E8 · aired 2000-11-22",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tgv_tt0141842_3_8",
+      "type": "series",
+      "name": "The Sopranos: He is Risen",
+      "poster": "https://images.metahub.space/poster/medium/tt0141842/img",
+      "posterShape": "poster",
+      "description": "The Sopranos · S3E8 · aired 2001-04-15",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0108778_8_9",
+      "type": "series",
+      "name": "Friends: The One With the Rumor",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "posterShape": "poster",
+      "description": "Friends · S8E9 · aired 2001-11-22",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0157246_4_9",
+      "type": "series",
+      "name": "Will & Grace: Moveable Feast (1)",
+      "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+      "posterShape": "poster",
+      "description": "Will & Grace · S4E9 · aired 2001-11-22",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0157246_4_10",
+      "type": "series",
+      "name": "Will & Grace: Moveable Feast (2)",
+      "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+      "posterShape": "poster",
+      "description": "Will & Grace · S4E10 · aired 2001-11-22",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0108778_9_8",
+      "type": "series",
+      "name": "Friends: The One With Rachel's Other Sister",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "posterShape": "poster",
+      "description": "Friends · S9E8 · aired 2002-11-21",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tgv_tt0318883_1_11",
+      "type": "series",
+      "name": "Everwood: A Thanksgiving Tale",
+      "poster": "https://images.metahub.space/poster/medium/tt0318883/img",
+      "posterShape": "poster",
+      "description": "Everwood · S1E11 · aired 2002-11-25",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tgv_tt0238784_3_9",
+      "type": "series",
+      "name": "Gilmore Girls: A Deep-Fried Korean Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0238784/img",
+      "posterShape": "poster",
+      "description": "Gilmore Girls · S3E9 · aired 2002-11-26",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tgv_tt0108778_10_8",
+      "type": "series",
+      "name": "Friends: The One With the Late Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "posterShape": "poster",
+      "description": "Friends · S10E8 · aired 2003-11-20",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tgv_tt0413573_2_9",
+      "type": "series",
+      "name": "Grey's Anatomy: Thanks for the Memories",
+      "poster": "https://images.metahub.space/poster/medium/tt0413573/img",
+      "posterShape": "poster",
+      "description": "Grey's Anatomy · S2E9 · aired 2005-11-20",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tgv_tt0460649_1_9",
+      "type": "series",
+      "name": "How I Met Your Mother: Belly Full of Turkey",
+      "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+      "posterShape": "poster",
+      "description": "How I Met Your Mother · S1E9 · aired 2005-11-21",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tgv_tt0805669_1_8",
+      "type": "series",
+      "name": "Ugly Betty: Four Thanksgivings and a Funeral",
+      "poster": "https://images.metahub.space/poster/medium/tt0805669/img",
+      "posterShape": "poster",
+      "description": "Ugly Betty · S1E8 · aired 2006-11-16",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tgv_tt0460649_3_9",
+      "type": "series",
+      "name": "How I Met Your Mother: Slapsgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+      "posterShape": "poster",
+      "description": "How I Met Your Mother · S3E9 · aired 2007-11-19",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tgv_tt0397442_1_9",
+      "type": "series",
+      "name": "Gossip Girl: Blair Waldorf Must Pie!",
+      "poster": "https://images.metahub.space/poster/medium/tt0397442/img",
+      "posterShape": "poster",
+      "description": "Gossip Girl · S1E9 · aired 2007-11-28",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tgv_tt0773262_4_9",
+      "type": "series",
+      "name": "Dexter: Hungry Man",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "posterShape": "poster",
+      "description": "Dexter · S4E9 · aired 2009-11-22",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tgv_tt1442464_1_8",
+      "type": "series",
+      "name": "The Middle: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1442464/img",
+      "posterShape": "poster",
+      "description": "The Middle · S1E8 · aired 2009-11-25",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tgv_tt0397442_3_11",
+      "type": "series",
+      "name": "Gossip Girl: The Treasure of Serena Madre",
+      "poster": "https://images.metahub.space/poster/medium/tt0397442/img",
+      "posterShape": "poster",
+      "description": "Gossip Girl · S3E11 · aired 2009-11-30",
+      "releaseInfo": "2009"
+    }
+  ]
+}

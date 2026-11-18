@@ -1,0 +1,200 @@
+{
+  "metas": [
+    {
+      "id": "tt0068359",
+      "type": "movie",
+      "name": "A Charlie Brown Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0068359/img",
+      "releaseInfo": "1973"
+    },
+    {
+      "id": "tgv_tt0096697_2_7",
+      "type": "series",
+      "name": "The Simpsons: Bart vs. Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "posterShape": "poster",
+      "description": "The Simpsons · S2E7 · aired 1990-11-22",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tgv_tt0101188_4_22",
+      "type": "series",
+      "name": "Rugrats: The Turkey Who Came to Dinner",
+      "poster": "https://images.metahub.space/poster/medium/tt0101188/img",
+      "posterShape": "poster",
+      "description": "Rugrats · S4E22 · aired 1997-10-21",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tgv_tt0121955_1_8",
+      "type": "series",
+      "name": "South Park: Starvin' Marvin",
+      "poster": "https://images.metahub.space/poster/medium/tt0121955/img",
+      "posterShape": "poster",
+      "description": "South Park · S1E8 · aired 1997-11-19",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tgv_tt0115200_3_14",
+      "type": "series",
+      "name": "Hey Arnold!: Arnold's Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0115200/img",
+      "posterShape": "poster",
+      "description": "Hey Arnold! · S3E14 · aired 1998-11-18",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tgv_tt0118375_4_7",
+      "type": "series",
+      "name": "King of the Hill: The Hank's Giving Episode",
+      "poster": "https://images.metahub.space/poster/medium/tt0118375/img",
+      "posterShape": "poster",
+      "description": "King of the Hill · S4E7 · aired 1999-11-21",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tgv_tt0121955_15_13",
+      "type": "series",
+      "name": "South Park: A History Channel Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0121955/img",
+      "posterShape": "poster",
+      "description": "South Park · S15E13 · aired 2011-11-09",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tgv_tt0182576_10_6",
+      "type": "series",
+      "name": "Family Guy: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+      "posterShape": "poster",
+      "description": "Family Guy · S10E6 · aired 2011-11-20",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tgv_tt1561755_3_5",
+      "type": "series",
+      "name": "Bob's Burgers: An Indecent Thanksgiving Proposal",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S3E5 · aired 2012-11-18",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt1195935_4_4",
+      "type": "series",
+      "name": "The Cleveland Show: Turkey Pot Die",
+      "poster": "https://images.metahub.space/poster/medium/tt1195935/img",
+      "posterShape": "poster",
+      "description": "The Cleveland Show · S4E4 · aired 2012-11-25",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt1561755_4_5",
+      "type": "series",
+      "name": "Bob's Burgers: Turkey in a Can",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S4E5 · aired 2013-11-24",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt0397306_10_5",
+      "type": "series",
+      "name": "American Dad!: Kung Pao Turkey",
+      "poster": "https://images.metahub.space/poster/medium/tt0397306/img",
+      "posterShape": "poster",
+      "description": "American Dad! · S10E5 · aired 2013-11-24",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt1710308_5_12",
+      "type": "series",
+      "name": "Regular Show: The Thanksgiving Special",
+      "poster": "https://images.metahub.space/poster/medium/tt1710308/img",
+      "posterShape": "poster",
+      "description": "Regular Show · S5E12 · aired 2013-11-25",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt0182576_13_5",
+      "type": "series",
+      "name": "Family Guy: Turkey Guys",
+      "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+      "posterShape": "poster",
+      "description": "Family Guy · S13E5 · aired 2014-11-16",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt1561755_5_4",
+      "type": "series",
+      "name": "Bob's Burgers: Dawn of the Peck",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S5E4 · aired 2014-11-23",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt1561755_6_4",
+      "type": "series",
+      "name": "Bob's Burgers: Gayle Makin' Bob Sled",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S6E4 · aired 2015-11-08",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tgv_tt1561755_8_5",
+      "type": "series",
+      "name": "Bob's Burgers: Thanks-Hoarding",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S8E5 · aired 2017-11-19",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt1561755_9_7",
+      "type": "series",
+      "name": "Bob's Burgers: I Bob Your Pardon",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S9E7 · aired 2018-11-18",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tgv_tt0096697_31_8",
+      "type": "series",
+      "name": "The Simpsons: Thanksgiving of Horror",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "posterShape": "poster",
+      "description": "The Simpsons · S31E8 · aired 2019-11-24",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tgv_tt1561755_10_8",
+      "type": "series",
+      "name": "Bob's Burgers: Now We're Not Cooking with Gas",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S10E8 · aired 2019-11-24",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tgv_tt2861424_5_6",
+      "type": "series",
+      "name": "Rick and Morty: Rick & Morty's Thanksploitation Spectacular",
+      "poster": "https://images.metahub.space/poster/medium/tt2861424/img",
+      "posterShape": "poster",
+      "description": "Rick and Morty · S5E6 · aired 2021-07-25",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tgv_tt1561755_13_8",
+      "type": "series",
+      "name": "Bob's Burgers: Putts-giving",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S13E8 · aired 2022-11-20",
+      "releaseInfo": "2022"
+    }
+  ]
+}

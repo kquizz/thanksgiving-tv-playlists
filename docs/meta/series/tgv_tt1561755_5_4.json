@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_5_4",
+    "type": "series",
+    "name": "Bob's Burgers: Dawn of the Peck",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/4/12446.jpg",
+    "description": "Bob's Burgers · Season 5, Episode 4 · aired 2014-11-23\n\nWhile Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the First Annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem.",
+    "releaseInfo": "2014",
+    "released": "2014-11-23T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:5:4",
+        "title": "Dawn of the Peck",
+        "season": 5,
+        "episode": 4,
+        "released": "2014-11-23T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/4/12446.jpg",
+        "overview": "While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the First Annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:5:4"
+    }
+  }
+}

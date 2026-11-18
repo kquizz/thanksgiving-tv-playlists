@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0121955_1_8",
+    "type": "series",
+    "name": "South Park: Starvin' Marvin",
+    "poster": "https://images.metahub.space/poster/medium/tt0121955/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/75/188952.jpg",
+    "description": "South Park · Season 1, Episode 8 · aired 1997-11-19\n\nAfter the boys contact an agency that helps starving children, Government authorities send Cartman to Ethiopia. Meanwhile, the town holds a drive for canned goods; and turkeys revolt against a genetic engineer.",
+    "releaseInfo": "1997",
+    "released": "1997-11-19T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0121955:1:8",
+        "title": "Starvin' Marvin",
+        "season": 1,
+        "episode": 8,
+        "released": "1997-11-19T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/75/188952.jpg",
+        "overview": "After the boys contact an agency that helps starving children, Government authorities send Cartman to Ethiopia. Meanwhile, the town holds a drive for canned goods; and turkeys revolt against a genetic engineer."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0121955:1:8"
+    }
+  }
+}

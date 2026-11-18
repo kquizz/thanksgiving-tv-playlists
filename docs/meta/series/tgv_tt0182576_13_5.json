@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0182576_13_5",
+    "type": "series",
+    "name": "Family Guy: Turkey Guys",
+    "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/4/11021.jpg",
+    "description": "Family Guy · Season 13, Episode 5 · aired 2014-11-16\n\nOn Thanksgiving eve, a drunken and ravenous Peter and Brian wolf down the holiday turkey, and then must go on hunt to find a replacement bird. With Peter gone, Chris decides to step up and take over as man of the house.",
+    "releaseInfo": "2014",
+    "released": "2014-11-16T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0182576:13:5",
+        "title": "Turkey Guys",
+        "season": 13,
+        "episode": 5,
+        "released": "2014-11-16T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/4/11021.jpg",
+        "overview": "On Thanksgiving eve, a drunken and ravenous Peter and Brian wolf down the holiday turkey, and then must go on hunt to find a replacement bird. With Peter gone, Chris decides to step up and take over as man of the house."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0182576:13:5"
+    }
+  }
+}

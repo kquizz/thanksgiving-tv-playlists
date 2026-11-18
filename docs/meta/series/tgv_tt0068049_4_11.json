@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0068049_4_11",
+    "type": "series",
+    "name": "The Bob Newhart Show: Over the River and Through the Woods",
+    "poster": "https://images.metahub.space/poster/medium/tt0068049/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/573/1432523.jpg",
+    "description": "The Bob Newhart Show · Season 4, Episode 11 · aired 1975-11-22\n\nWith Emily out of town, Bob spends Thanksgiving with Jerry and Mr Carlin watching a football game. They proceed to get drunk and try to order Moo Goo Gai Pan from a Chinese restaurant for dinner.",
+    "releaseInfo": "1975",
+    "released": "1975-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0068049:4:11",
+        "title": "Over the River and Through the Woods",
+        "season": 4,
+        "episode": 11,
+        "released": "1975-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/573/1432523.jpg",
+        "overview": "With Emily out of town, Bob spends Thanksgiving with Jerry and Mr Carlin watching a football game. They proceed to get drunk and try to order Moo Goo Gai Pan from a Chinese restaurant for dinner."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0068049:4:11"
+    }
+  }
+}

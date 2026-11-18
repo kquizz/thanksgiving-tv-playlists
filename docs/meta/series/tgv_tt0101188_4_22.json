@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0101188_4_22",
+    "type": "series",
+    "name": "Rugrats: The Turkey Who Came to Dinner",
+    "poster": "https://images.metahub.space/poster/medium/tt0101188/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/402/1007439.jpg",
+    "description": "Rugrats · Season 4, Episode 22 · aired 1997-10-21",
+    "releaseInfo": "1997",
+    "released": "1997-10-21T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0101188:4:22",
+        "title": "The Turkey Who Came to Dinner",
+        "season": 4,
+        "episode": 22,
+        "released": "1997-10-21T00:00:00.000Z",
+        "thumbnail": null,
+        "overview": null
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0101188:4:22"
+    }
+  }
+}

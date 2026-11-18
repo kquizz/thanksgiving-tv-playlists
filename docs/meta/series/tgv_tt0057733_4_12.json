@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0057733_4_12",
+    "type": "series",
+    "name": "Bewitched: Samantha's Thanksgiving to Remember",
+    "poster": "https://images.metahub.space/poster/medium/tt0057733/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/620/1550108.jpg",
+    "description": "Bewitched · Season 4, Episode 12 · aired 1967-11-23\n\nThrough the bumbling magic of Aunt Clara, the Stephens family and Mrs. Kravitz spend Thanksgiving with the original pilgrims in 1620.",
+    "releaseInfo": "1967",
+    "released": "1967-11-23T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0057733:4:12",
+        "title": "Samantha's Thanksgiving to Remember",
+        "season": 4,
+        "episode": 12,
+        "released": "1967-11-23T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/620/1550108.jpg",
+        "overview": "Through the bumbling magic of Aunt Clara, the Stephens family and Mrs. Kravitz spend Thanksgiving with the original pilgrims in 1620."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0057733:4:12"
+    }
+  }
+}

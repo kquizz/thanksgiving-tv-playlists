@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt3551096_2_8",
+    "type": "series",
+    "name": "Fresh Off the Boat: Huangsgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/30/77024.jpg",
+    "description": "Fresh Off the Boat · Season 2, Episode 8 · aired 2015-11-17\n\nThe Huangs host Thanksgiving dinner. Jessica wants to out-do her sister, who's hosted it in years past, but mishaps and unexpected events threaten to make the feast a flop. In other events, Eddie and his cousin discover the power of the Internet.",
+    "releaseInfo": "2015",
+    "released": "2015-11-17T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt3551096:2:8",
+        "title": "Huangsgiving",
+        "season": 2,
+        "episode": 8,
+        "released": "2015-11-17T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/30/77024.jpg",
+        "overview": "The Huangs host Thanksgiving dinner. Jessica wants to out-do her sister, who's hosted it in years past, but mishaps and unexpected events threaten to make the feast a flop. In other events, Eddie and his cousin discover the power of the Internet."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt3551096:2:8"
+    }
+  }
+}

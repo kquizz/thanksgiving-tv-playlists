@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0096697_2_7",
+    "type": "series",
+    "name": "The Simpsons: Bart vs. Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/489/1223207.jpg",
+    "description": "The Simpsons · Season 2, Episode 7 · aired 1990-11-22\n\nOn Thanksgiving, Bart runs away after accidentally wrecking Lisa's centerpiece.",
+    "releaseInfo": "1990",
+    "released": "1990-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0096697:2:7",
+        "title": "Bart vs. Thanksgiving",
+        "season": 2,
+        "episode": 7,
+        "released": "1990-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/489/1223207.jpg",
+        "overview": "On Thanksgiving, Bart runs away after accidentally wrecking Lisa's centerpiece."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0096697:2:7"
+    }
+  }
+}

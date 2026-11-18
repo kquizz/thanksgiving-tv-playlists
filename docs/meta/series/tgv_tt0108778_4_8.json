@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_4_8",
+    "type": "series",
+    "name": "Friends: The One With Chandler in a Box",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/45/114635.jpg",
+    "description": "Friends · Season 4, Episode 8 · aired 1997-11-20\n\nOn Thanksgiving, Chandler begs for Joey's forgiveness about Kathy; Monica has eyes for Richard's son.",
+    "releaseInfo": "1997",
+    "released": "1997-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:4:8",
+        "title": "The One With Chandler in a Box",
+        "season": 4,
+        "episode": 8,
+        "released": "1997-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/45/114635.jpg",
+        "overview": "On Thanksgiving, Chandler begs for Joey's forgiveness about Kathy; Monica has eyes for Richard's son."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:4:8"
+    }
+  }
+}

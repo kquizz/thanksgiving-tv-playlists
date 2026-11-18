@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0157246_4_10",
+    "type": "series",
+    "name": "Will & Grace: Moveable Feast (2)",
+    "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/306/766889.jpg",
+    "description": "Will & Grace · Season 4, Episode 10 · aired 2001-11-22\n\nWill, Grace, Jack and Karen make a day of it as they head to Thanksgiving get-togethers at the houses of their respective families.",
+    "releaseInfo": "2001",
+    "released": "2001-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0157246:4:10",
+        "title": "Moveable Feast (2)",
+        "season": 4,
+        "episode": 10,
+        "released": "2001-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/306/766889.jpg",
+        "overview": "Will, Grace, Jack and Karen make a day of it as they head to Thanksgiving get-togethers at the houses of their respective families."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0157246:4:10"
+    }
+  }
+}

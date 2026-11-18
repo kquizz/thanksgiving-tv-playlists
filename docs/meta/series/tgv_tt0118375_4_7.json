@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0118375_4_7",
+    "type": "series",
+    "name": "King of the Hill: The Hank's Giving Episode",
+    "poster": "https://images.metahub.space/poster/medium/tt0118375/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/86/215401.jpg",
+    "description": "King of the Hill · Season 4, Episode 7 · aired 1999-11-21\n\nThe Hill family embarks on a trip to Montana to visit Peggy's mother and gets caught at the airport by severe weather that grounds all the flights. Several of Hank's neighbors also end up at the airport due to their holiday plans.",
+    "releaseInfo": "1999",
+    "released": "1999-11-21T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0118375:4:7",
+        "title": "The Hank's Giving Episode",
+        "season": 4,
+        "episode": 7,
+        "released": "1999-11-21T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/86/215401.jpg",
+        "overview": "The Hill family embarks on a trip to Montana to visit Peggy's mother and gets caught at the airport by severe weather that grounds all the flights. Several of Hank's neighbors also end up at the airport due to their holiday plans."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0118375:4:7"
+    }
+  }
+}

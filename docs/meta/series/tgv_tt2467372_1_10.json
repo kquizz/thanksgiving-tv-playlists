@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt2467372_1_10",
+    "type": "series",
+    "name": "Brooklyn Nine-Nine: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt2467372/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/406/1015866.jpg",
+    "description": "Brooklyn Nine-Nine · Season 1, Episode 10 · aired 2013-11-26\n\nAmy wants to host a Thanksgiving dinner for the entire precinct, but it turns into a holiday disaster when Holt and Jake have to leave to go catch a perp. Boyle steps in to save Turkey Day.",
+    "releaseInfo": "2013",
+    "released": "2013-11-26T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt2467372:1:10",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 10,
+        "released": "2013-11-26T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/406/1015866.jpg",
+        "overview": "Amy wants to host a Thanksgiving dinner for the entire precinct, but it turns into a holiday disaster when Holt and Jake have to leave to go catch a perp. Boyle steps in to save Turkey Day."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt2467372:1:10"
+    }
+  }
+}

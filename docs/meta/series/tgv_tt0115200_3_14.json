@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0115200_3_14",
+    "type": "series",
+    "name": "Hey Arnold!: Arnold's Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0115200/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/24/61868.jpg",
+    "description": "Hey Arnold! · Season 3, Episode 14 · aired 1998-11-18\n\nArnold is fed up with bickering among the boarders and looks for the essence of Thanksgiving",
+    "releaseInfo": "1998",
+    "released": "1998-11-18T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0115200:3:14",
+        "title": "Arnold's Thanksgiving",
+        "season": 3,
+        "episode": 14,
+        "released": "1998-11-18T00:00:00.000Z",
+        "thumbnail": null,
+        "overview": "Arnold is fed up with bickering among the boarders and looks for the essence of Thanksgiving"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0115200:3:14"
+    }
+  }
+}

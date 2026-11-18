@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1439629_4_5",
+    "type": "series",
+    "name": "Community: Cooperative Escapism in Familial Relations",
+    "poster": "https://images.metahub.space/poster/medium/tt1439629/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/197/494830.jpg",
+    "description": "Community · Season 4, Episode 5 · aired 2013-03-07\n\nThe study group heads to Shirley's for a Bennett-filled thanksgiving, which is so awkward that they immediately begin plotting their escape. Meanwhile, Jeff heads to his estranged father William's house, whom he hasn't seen since he was a child.",
+    "releaseInfo": "2013",
+    "released": "2013-03-07T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1439629:4:5",
+        "title": "Cooperative Escapism in Familial Relations",
+        "season": 4,
+        "episode": 5,
+        "released": "2013-03-07T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494830.jpg",
+        "overview": "The study group heads to Shirley's for a Bennett-filled thanksgiving, which is so awkward that they immediately begin plotting their escape. Meanwhile, Jeff heads to his estranged father William's house, whom he hasn't seen since he was a child."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1439629:4:5"
+    }
+  }
+}

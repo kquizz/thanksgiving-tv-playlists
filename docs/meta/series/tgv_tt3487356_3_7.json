@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt3487356_3_7",
+    "type": "series",
+    "name": "black-ish: Auntsgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt3487356/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/85/212752.jpg",
+    "description": "black-ish · Season 3, Episode 7 · aired 2016-11-16\n\nPops' older sister Almaviligerais unexpectedly arrives for Thanksgiving, much to everyone's delight except Ruby, who can't stand her ex-sister-in-law. While Bow and Dre go on their last vacation before the baby arrives, the kids try to figure out why Ruby hates Almaviligerais so much.",
+    "releaseInfo": "2016",
+    "released": "2016-11-16T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt3487356:3:7",
+        "title": "Auntsgiving",
+        "season": 3,
+        "episode": 7,
+        "released": "2016-11-16T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/85/212752.jpg",
+        "overview": "Pops' older sister Almaviligerais unexpectedly arrives for Thanksgiving, much to everyone's delight except Ruby, who can't stand her ex-sister-in-law. While Bow and Dre go on their last vacation before the baby arrives, the kids try to figure out why Ruby hates Almaviligerais so much."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt3487356:3:7"
+    }
+  }
+}

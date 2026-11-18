@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt2211129_1_6",
+    "type": "series",
+    "name": "The Mindy Project: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt2211129/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/263/658060.jpg",
+    "description": "The Mindy Project · Season 1, Episode 6 · aired 2012-11-20\n\nMindy decides to cook Thanksgiving dinner at Gwen's house, but she is completely caught off guard when her former blind date, Dennis, arrives with his new girlfriend. Meanwhile, a lonely Danny mans the empty office while Betsy and Jeremy visit Betsy's eccentric family for the holiday.",
+    "releaseInfo": "2012",
+    "released": "2012-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt2211129:1:6",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 6,
+        "released": "2012-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/263/658060.jpg",
+        "overview": "Mindy decides to cook Thanksgiving dinner at Gwen's house, but she is completely caught off guard when her former blind date, Dennis, arrives with his new girlfriend. Meanwhile, a lonely Danny mans the empty office while Betsy and Jeremy visit Betsy's eccentric family for the holiday."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt2211129:1:6"
+    }
+  }
+}

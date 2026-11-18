@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_5_8",
+    "type": "series",
+    "name": "Friends: The One With All the Thanksgivings",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/46/115061.jpg",
+    "description": "Friends · Season 5, Episode 8 · aired 1998-11-19\n\nThe gang reflects on bad Thanksgivings---and the biggest turkey belongs to Monica, who recalls her first encounter with Chandler.",
+    "releaseInfo": "1998",
+    "released": "1998-11-19T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:5:8",
+        "title": "The One With All the Thanksgivings",
+        "season": 5,
+        "episode": 8,
+        "released": "1998-11-19T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/46/115061.jpg",
+        "overview": "The gang reflects on bad Thanksgivings---and the biggest turkey belongs to Monica, who recalls her first encounter with Chandler."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:5:8"
+    }
+  }
+}

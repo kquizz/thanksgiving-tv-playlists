@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt5555260_1_8",
+    "type": "series",
+    "name": "This Is Us: Pilgrim Rick",
+    "poster": "https://images.metahub.space/poster/medium/tt5555260/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/85/214919.jpg",
+    "description": "This Is Us · Season 1, Episode 8 · aired 2016-11-22\n\nAs Jack, Rebecca and the three kids make their way to Rebecca's parents' house for their traditional Thanksgiving holiday, an unforeseen detour occurs. Kate makes two drastic life-changing decisions. Kevin brings Olivia to Randall's house for Thanksgiving. Randall's heart is broken when he learns about a lifelong secret his mother has kept from him.",
+    "releaseInfo": "2016",
+    "released": "2016-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt5555260:1:8",
+        "title": "Pilgrim Rick",
+        "season": 1,
+        "episode": 8,
+        "released": "2016-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/85/214919.jpg",
+        "overview": "As Jack, Rebecca and the three kids make their way to Rebecca's parents' house for their traditional Thanksgiving holiday, an unforeseen detour occurs. Kate makes two drastic life-changing decisions. Kevin brings Olivia to Randall's house for Thanksgiving. Randall's heart is broken when he learns about a lifelong secret his mother has kept from him."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt5555260:1:8"
+    }
+  }
+}

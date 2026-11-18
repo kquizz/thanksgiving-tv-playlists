@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0238784_3_9",
+    "type": "series",
+    "name": "Gilmore Girls: A Deep-Fried Korean Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0238784/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/87/217973.jpg",
+    "description": "Gilmore Girls · Season 3, Episode 9 · aired 2002-11-26\n\nIt's Thanksgiving, and Lorelai and Rory have dinner at four different places: the Kim's, where Lane has managed to get Dave invited and Lorelai is forced to eat tofurkey; Luke's, where Luke and Jess make it a foursome with Lorelai and Rory; Sookie's, where Jackson and his family have deep-fried the turkey, the lawn and just about everything else; and Emily and Richard's, where, to Lorelai's horror, Rory reveals that she has applied to Yale. Kirk gets a cat, with disastrous results; Dave asks Lane out, and then kisses her; Paris is afraid her difficulty getting into a shelter will impact her acceptance to Harvard; and Dean faces off with Jess and lets him know that it's no more \"Mr. Nice Guy\" for Mr. Forester.",
+    "releaseInfo": "2002",
+    "released": "2002-11-26T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0238784:3:9",
+        "title": "A Deep-Fried Korean Thanksgiving",
+        "season": 3,
+        "episode": 9,
+        "released": "2002-11-26T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/87/217973.jpg",
+        "overview": "It's Thanksgiving, and Lorelai and Rory have dinner at four different places: the Kim's, where Lane has managed to get Dave invited and Lorelai is forced to eat tofurkey; Luke's, where Luke and Jess make it a foursome with Lorelai and Rory; Sookie's, where Jackson and his family have deep-fried the turkey, the lawn and just about everything else; and Emily and Richard's, where, to Lorelai's horror, Rory reveals that she has applied to Yale. Kirk gets a cat, with disastrous results; Dave asks Lane out, and then kisses her; Paris is afraid her difficulty getting into a shelter will impact her acceptance to Harvard; and Dean faces off with Jess and lets him know that it's no more \"Mr. Nice Guy\" for Mr. Forester."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0238784:3:9"
+    }
+  }
+}

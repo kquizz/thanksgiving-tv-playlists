@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0068149_2_10",
+    "type": "series",
+    "name": "The Waltons: The Thanksgiving Story",
+    "poster": "https://images.metahub.space/poster/medium/tt0068149/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603439.jpg",
+    "description": "The Waltons · Season 2, Episode 10 · aired 1973-11-15\n\nOne particular Thanksgiving sees John Boy primping because Jenny is returning for the holiday. But an accident in the lumber mill throws a pall over the normally happy holiday as one member of the Waltons winds up in the hospital with a serious injury. Meanwhile the preparations for the big meal continue as Ben gets his chance to bring home the turkey for the first time; and Mary Ellen prepares to star in the school play as Pocahontas.",
+    "releaseInfo": "1973",
+    "released": "1973-11-15T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0068149:2:10",
+        "title": "The Thanksgiving Story",
+        "season": 2,
+        "episode": 10,
+        "released": "1973-11-15T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/641/1603439.jpg",
+        "overview": "One particular Thanksgiving sees John Boy primping because Jenny is returning for the holiday. But an accident in the lumber mill throws a pall over the normally happy holiday as one member of the Waltons winds up in the hospital with a serious injury. Meanwhile the preparations for the big meal continue as Ben gets his chance to bring home the turkey for the first time; and Mary Ellen prepares to star in the school play as Pocahontas."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0068149:2:10"
+    }
+  }
+}

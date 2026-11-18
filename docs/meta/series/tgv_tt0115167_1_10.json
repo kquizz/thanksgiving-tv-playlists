@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0115167_1_10",
+    "type": "series",
+    "name": "Everybody Loves Raymond: Turkey or Fish",
+    "poster": "https://images.metahub.space/poster/medium/tt0115167/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/495/1238239.jpg",
+    "description": "Everybody Loves Raymond · Season 1, Episode 10 · aired 1996-11-22\n\nDebra wants to create her own Thanksgiving tradition by making fish instead of turkey. Marie isn't happy about it.",
+    "releaseInfo": "1996",
+    "released": "1996-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0115167:1:10",
+        "title": "Turkey or Fish",
+        "season": 1,
+        "episode": 10,
+        "released": "1996-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/495/1238239.jpg",
+        "overview": "Debra wants to create her own Thanksgiving tradition by making fish instead of turkey. Marie isn't happy about it."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0115167:1:10"
+    }
+  }
+}

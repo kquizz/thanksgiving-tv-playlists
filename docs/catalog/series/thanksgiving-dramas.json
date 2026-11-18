@@ -1,0 +1,157 @@
+{
+  "metas": [
+    {
+      "id": "tgv_tt0068149_2_10",
+      "type": "series",
+      "name": "The Waltons: The Thanksgiving Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0068149/img",
+      "posterShape": "poster",
+      "description": "The Waltons · S2E10 · aired 1973-11-15",
+      "releaseInfo": "1973"
+    },
+    {
+      "id": "tgv_tt0108894_1_10",
+      "type": "series",
+      "name": "Party of Five: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0108894/img",
+      "posterShape": "poster",
+      "description": "Party of Five · S1E10 · aired 1994-11-14",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tgv_tt0134247_1_9",
+      "type": "series",
+      "name": "Felicity: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0134247/img",
+      "posterShape": "poster",
+      "description": "Felicity · S1E9 · aired 1998-11-24",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tgv_tt0118276_4_8",
+      "type": "series",
+      "name": "Buffy the Vampire Slayer: Pangs",
+      "poster": "https://images.metahub.space/poster/medium/tt0118276/img",
+      "posterShape": "poster",
+      "description": "Buffy the Vampire Slayer · S4E8 · aired 1999-11-23",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tgv_tt0200276_2_8",
+      "type": "series",
+      "name": "The West Wing: Shibboleth",
+      "poster": "https://images.metahub.space/poster/medium/tt0200276/img",
+      "posterShape": "poster",
+      "description": "The West Wing · S2E8 · aired 2000-11-22",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tgv_tt0141842_3_8",
+      "type": "series",
+      "name": "The Sopranos: He is Risen",
+      "poster": "https://images.metahub.space/poster/medium/tt0141842/img",
+      "posterShape": "poster",
+      "description": "The Sopranos · S3E8 · aired 2001-04-15",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0318883_1_11",
+      "type": "series",
+      "name": "Everwood: A Thanksgiving Tale",
+      "poster": "https://images.metahub.space/poster/medium/tt0318883/img",
+      "posterShape": "poster",
+      "description": "Everwood · S1E11 · aired 2002-11-25",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tgv_tt0413573_2_9",
+      "type": "series",
+      "name": "Grey's Anatomy: Thanks for the Memories",
+      "poster": "https://images.metahub.space/poster/medium/tt0413573/img",
+      "posterShape": "poster",
+      "description": "Grey's Anatomy · S2E9 · aired 2005-11-20",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tgv_tt0805669_1_8",
+      "type": "series",
+      "name": "Ugly Betty: Four Thanksgivings and a Funeral",
+      "poster": "https://images.metahub.space/poster/medium/tt0805669/img",
+      "posterShape": "poster",
+      "description": "Ugly Betty · S1E8 · aired 2006-11-16",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tgv_tt0397442_1_9",
+      "type": "series",
+      "name": "Gossip Girl: Blair Waldorf Must Pie!",
+      "poster": "https://images.metahub.space/poster/medium/tt0397442/img",
+      "posterShape": "poster",
+      "description": "Gossip Girl · S1E9 · aired 2007-11-28",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tgv_tt0773262_4_9",
+      "type": "series",
+      "name": "Dexter: Hungry Man",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "posterShape": "poster",
+      "description": "Dexter · S4E9 · aired 2009-11-22",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tgv_tt0397442_3_11",
+      "type": "series",
+      "name": "Gossip Girl: The Treasure of Serena Madre",
+      "poster": "https://images.metahub.space/poster/medium/tt0397442/img",
+      "posterShape": "poster",
+      "description": "Gossip Girl · S3E11 · aired 2009-11-30",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tgv_tt0758745_4_13",
+      "type": "series",
+      "name": "Friday Night Lights: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0758745/img",
+      "posterShape": "poster",
+      "description": "Friday Night Lights · S4E13 · aired 2010-02-10",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tgv_tt1416765_2_10",
+      "type": "series",
+      "name": "Parenthood: Happy Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1416765/img",
+      "posterShape": "poster",
+      "description": "Parenthood · S2E10 · aired 2010-11-23",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tgv_tt5555260_1_8",
+      "type": "series",
+      "name": "This Is Us: Pilgrim Rick",
+      "poster": "https://images.metahub.space/poster/medium/tt5555260/img",
+      "posterShape": "poster",
+      "description": "This Is Us · S1E8 · aired 2016-11-22",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt7660850_1_5",
+      "type": "series",
+      "name": "Succession: I Went to Market",
+      "poster": "https://images.metahub.space/poster/medium/tt7660850/img",
+      "posterShape": "poster",
+      "description": "Succession · S1E5 · aired 2018-07-01",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tgv_tt5555260_3_8",
+      "type": "series",
+      "name": "This Is Us: Six Thanksgivings",
+      "poster": "https://images.metahub.space/poster/medium/tt5555260/img",
+      "posterShape": "poster",
+      "description": "This Is Us · S3E8 · aired 2018-11-20",
+      "releaseInfo": "2018"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0805669_1_8",
+    "type": "series",
+    "name": "Ugly Betty: Four Thanksgivings and a Funeral",
+    "poster": "https://images.metahub.space/poster/medium/tt0805669/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/308/772240.jpg",
+    "description": "Ugly Betty · Season 1, Episode 8 · aired 2006-11-16\n\nTo his dismay, Daniel must attend his family's Thanksgiving gathering at the Country Club. Meanwhile, Amanda and Marc create their own gathering at Mode and there is also a dinner at Betty's house where Santos, Justin's father, is in attendance. Meanwhile, Wilhelmina also hosts a Thanksgiving dinner as well but her feast doesn't look as good as it does in magazine pictures.",
+    "releaseInfo": "2006",
+    "released": "2006-11-16T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0805669:1:8",
+        "title": "Four Thanksgivings and a Funeral",
+        "season": 1,
+        "episode": 8,
+        "released": "2006-11-16T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/308/772240.jpg",
+        "overview": "To his dismay, Daniel must attend his family's Thanksgiving gathering at the Country Club. Meanwhile, Amanda and Marc create their own gathering at Mode and there is also a dinner at Betty's house where Santos, Justin's father, is in attendance. Meanwhile, Wilhelmina also hosts a Thanksgiving dinner as well but her feast doesn't look as good as it does in magazine pictures."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0805669:1:8"
+    }
+  }
+}

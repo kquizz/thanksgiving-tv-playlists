@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1195935_4_4",
+    "type": "series",
+    "name": "The Cleveland Show: Turkey Pot Die",
+    "poster": "https://images.metahub.space/poster/medium/tt1195935/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/479/1199036.jpg",
+    "description": "The Cleveland Show · Season 4, Episode 4 · aired 2012-11-25\n\nCleveland takes Junior to a turkey farm to get a Thanksgiving turkey but doesn't realize he's supposed to hug it. Junior then decides the turkey's must be set free. Meanwhile, Rallo and Donna build a float for Stoolbend's Thanksgiving Day parade, but when it becomes a competition against Ariana, Donna gets serious.",
+    "releaseInfo": "2012",
+    "released": "2012-11-25T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1195935:4:4",
+        "title": "Turkey Pot Die",
+        "season": 4,
+        "episode": 4,
+        "released": "2012-11-25T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/479/1199036.jpg",
+        "overview": "Cleveland takes Junior to a turkey farm to get a Thanksgiving turkey but doesn't realize he's supposed to hug it. Junior then decides the turkey's must be set free. Meanwhile, Rallo and Donna build a float for Stoolbend's Thanksgiving Day parade, but when it becomes a competition against Ariana, Donna gets serious."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1195935:4:4"
+    }
+  }
+}

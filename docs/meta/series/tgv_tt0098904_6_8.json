@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0098904_6_8",
+    "type": "series",
+    "name": "Seinfeld: The Mom & Pop Store",
+    "poster": "https://images.metahub.space/poster/medium/tt0098904/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/244/610114.jpg",
+    "description": "Seinfeld · Season 6, Episode 8 · aired 1994-11-17\n\nGeorge buys a convertible he thinks was once owned by Jon Voight. Kramer tries to save a small shoe-repair business. Elaine answers a radio quiz, enabling Mr. Pitt to participate in the Macy's Thanksgiving Day Parade. Meanwhile, Jerry tries to solve the mystery of whether or not he's invited to Tim Whatley's annual Pre-Thanksgiving party.",
+    "releaseInfo": "1994",
+    "released": "1994-11-17T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0098904:6:8",
+        "title": "The Mom & Pop Store",
+        "season": 6,
+        "episode": 8,
+        "released": "1994-11-17T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/244/610114.jpg",
+        "overview": "George buys a convertible he thinks was once owned by Jon Voight. Kramer tries to save a small shoe-repair business. Elaine answers a radio quiz, enabling Mr. Pitt to participate in the Macy's Thanksgiving Day Parade. Meanwhile, Jerry tries to solve the mystery of whether or not he's invited to Tim Whatley's annual Pre-Thanksgiving party."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0098904:6:8"
+    }
+  }
+}

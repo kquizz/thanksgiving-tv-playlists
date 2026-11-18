@@ -23,18 +23,18 @@
       "air_date": "1990-11-22",
       "genre": "animation",
       "imdb_id": "tt0096697",
-      "stremio_id": "pl:tt0096697:2:7"
+      "stremio_id": "tt0096697:2:7"
     },
     {
       "show": "Rugrats",
       "episode_title": "The Turkey Who Came to Dinner",
       "type": "episode",
       "season": 4,
-      "episode": 13,
+      "episode": 22,
       "air_date": "1997-10-21",
       "genre": "animation",
       "imdb_id": "tt0101188",
-      "stremio_id": "pl:tt0101188:4:13"
+      "stremio_id": "tt0101188:4:22"
     },
     {
       "show": "South Park",
@@ -45,7 +45,7 @@
       "air_date": "1997-11-19",
       "genre": "animation",
       "imdb_id": "tt0121955",
-      "stremio_id": "pl:tt0121955:1:8"
+      "stremio_id": "tt0121955:1:8"
     },
     {
       "show": "Hey Arnold!",
@@ -56,7 +56,7 @@
       "air_date": "1998-11-18",
       "genre": "animation",
       "imdb_id": "tt0115200",
-      "stremio_id": "pl:tt0115200:3:14"
+      "stremio_id": "tt0115200:3:14"
     },
     {
       "show": "King of the Hill",
@@ -67,7 +67,7 @@
       "air_date": "1999-11-21",
       "genre": "animation",
       "imdb_id": "tt0118375",
-      "stremio_id": "pl:tt0118375:4:7"
+      "stremio_id": "tt0118375:4:7"
     },
     {
       "show": "South Park",
@@ -78,7 +78,7 @@
       "air_date": "2011-11-09",
       "genre": "animation",
       "imdb_id": "tt0121955",
-      "stremio_id": "pl:tt0121955:15:13"
+      "stremio_id": "tt0121955:15:13"
     },
     {
       "show": "Family Guy",
@@ -89,7 +89,7 @@
       "air_date": "2011-11-20",
       "genre": "animation",
       "imdb_id": "tt0182576",
-      "stremio_id": "pl:tt0182576:10:6"
+      "stremio_id": "tt0182576:10:6"
     },
     {
       "show": "Bob's Burgers",
@@ -100,7 +100,7 @@
       "air_date": "2012-11-18",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:3:5"
+      "stremio_id": "tt1561755:3:5"
     },
     {
       "show": "The Cleveland Show",
@@ -111,7 +111,7 @@
       "air_date": "2012-11-25",
       "genre": "animation",
       "imdb_id": "tt1195935",
-      "stremio_id": "pl:tt1195935:4:4"
+      "stremio_id": "tt1195935:4:4"
     },
     {
       "show": "Bob's Burgers",
@@ -122,18 +122,18 @@
       "air_date": "2013-11-24",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:4:5"
+      "stremio_id": "tt1561755:4:5"
     },
     {
       "show": "American Dad!",
       "episode_title": "Kung Pao Turkey",
       "type": "episode",
-      "season": 9,
+      "season": 10,
       "episode": 5,
       "air_date": "2013-11-24",
       "genre": "animation",
       "imdb_id": "tt0397306",
-      "stremio_id": "pl:tt0397306:9:5"
+      "stremio_id": "tt0397306:10:5"
     },
     {
       "show": "Regular Show",
@@ -144,7 +144,7 @@
       "air_date": "2013-11-25",
       "genre": "animation",
       "imdb_id": "tt1710308",
-      "stremio_id": "pl:tt1710308:5:12"
+      "stremio_id": "tt1710308:5:12"
     },
     {
       "show": "Family Guy",
@@ -155,7 +155,7 @@
       "air_date": "2014-11-16",
       "genre": "animation",
       "imdb_id": "tt0182576",
-      "stremio_id": "pl:tt0182576:13:5"
+      "stremio_id": "tt0182576:13:5"
     },
     {
       "show": "Bob's Burgers",
@@ -166,7 +166,7 @@
       "air_date": "2014-11-23",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:5:4"
+      "stremio_id": "tt1561755:5:4"
     },
     {
       "show": "Bob's Burgers",
@@ -177,7 +177,7 @@
       "air_date": "2015-11-08",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:6:4"
+      "stremio_id": "tt1561755:6:4"
     },
     {
       "show": "Bob's Burgers",
@@ -188,7 +188,7 @@
       "air_date": "2017-11-19",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:8:5"
+      "stremio_id": "tt1561755:8:5"
     },
     {
       "show": "Bob's Burgers",
@@ -199,7 +199,7 @@
       "air_date": "2018-11-18",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:9:7"
+      "stremio_id": "tt1561755:9:7"
     },
     {
       "show": "The Simpsons",
@@ -210,7 +210,7 @@
       "air_date": "2019-11-24",
       "genre": "animation",
       "imdb_id": "tt0096697",
-      "stremio_id": "pl:tt0096697:31:8"
+      "stremio_id": "tt0096697:31:8"
     },
     {
       "show": "Bob's Burgers",
@@ -221,7 +221,7 @@
       "air_date": "2019-11-24",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:10:8"
+      "stremio_id": "tt1561755:10:8"
     },
     {
       "show": "Rick and Morty",
@@ -232,7 +232,7 @@
       "air_date": "2021-07-25",
       "genre": "animation",
       "imdb_id": "tt2861424",
-      "stremio_id": "pl:tt2861424:5:6"
+      "stremio_id": "tt2861424:5:6"
     },
     {
       "show": "Bob's Burgers",
@@ -243,7 +243,7 @@
       "air_date": "2022-11-20",
       "genre": "animation",
       "imdb_id": "tt1561755",
-      "stremio_id": "pl:tt1561755:13:8"
+      "stremio_id": "tt1561755:13:8"
     }
   ]
 }

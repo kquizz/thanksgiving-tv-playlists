@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt2861424_5_6",
+    "type": "series",
+    "name": "Rick and Morty: Rick & Morty's Thanksploitation Spectacular",
+    "poster": "https://images.metahub.space/poster/medium/tt2861424/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/343/859276.jpg",
+    "description": "Rick and Morty · Season 5, Episode 6 · aired 2021-07-25\n\nRick turns himself into a turkey after he ruffles the President's feathers on Thanksgiving, and the situation soon spirals into total clucking carnage.",
+    "releaseInfo": "2021",
+    "released": "2021-07-25T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt2861424:5:6",
+        "title": "Rick & Morty's Thanksploitation Spectacular",
+        "season": 5,
+        "episode": 6,
+        "released": "2021-07-25T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/343/859276.jpg",
+        "overview": "Rick turns himself into a turkey after he ruffles the President's feathers on Thanksgiving, and the situation soon spirals into total clucking carnage."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt2861424:5:6"
+    }
+  }
+}

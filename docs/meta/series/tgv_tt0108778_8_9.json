@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_8_9",
+    "type": "series",
+    "name": "Friends: The One With the Rumor",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/193/484400.jpg",
+    "description": "Friends · Season 8, Episode 9 · aired 2001-11-22\n\nMonica invites an old friend from high school over for Thanksgiving dinner, unaware that Will started a \"We Hate Rachel\" club with Ross. Meanwhile, Joey vows to eat an entire turkey by himself, and Chandler and Phoebe pretend to watch football to avoid helping in the kitchen.",
+    "releaseInfo": "2001",
+    "released": "2001-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:8:9",
+        "title": "The One With the Rumor",
+        "season": 8,
+        "episode": 9,
+        "released": "2001-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/193/484400.jpg",
+        "overview": "Monica invites an old friend from high school over for Thanksgiving dinner, unaware that Will started a \"We Hate Rachel\" club with Ross. Meanwhile, Joey vows to eat an entire turkey by himself, and Chandler and Phoebe pretend to watch football to avoid helping in the kitchen."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:8:9"
+    }
+  }
+}

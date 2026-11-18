@@ -1,0 +1,229 @@
+{
+  "metas": [
+    {
+      "id": "tgv_tt0108778_8_9",
+      "type": "series",
+      "name": "Friends: The One With the Rumor",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "posterShape": "poster",
+      "description": "Friends · S8E9 · aired 2001-11-22",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0157246_4_9",
+      "type": "series",
+      "name": "Will & Grace: Moveable Feast (1)",
+      "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+      "posterShape": "poster",
+      "description": "Will & Grace · S4E9 · aired 2001-11-22",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0157246_4_10",
+      "type": "series",
+      "name": "Will & Grace: Moveable Feast (2)",
+      "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+      "posterShape": "poster",
+      "description": "Will & Grace · S4E10 · aired 2001-11-22",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tgv_tt0108778_9_8",
+      "type": "series",
+      "name": "Friends: The One With Rachel's Other Sister",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "posterShape": "poster",
+      "description": "Friends · S9E8 · aired 2002-11-21",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tgv_tt0238784_3_9",
+      "type": "series",
+      "name": "Gilmore Girls: A Deep-Fried Korean Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0238784/img",
+      "posterShape": "poster",
+      "description": "Gilmore Girls · S3E9 · aired 2002-11-26",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tgv_tt0108778_10_8",
+      "type": "series",
+      "name": "Friends: The One With the Late Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+      "posterShape": "poster",
+      "description": "Friends · S10E8 · aired 2003-11-20",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tgv_tt0460649_1_9",
+      "type": "series",
+      "name": "How I Met Your Mother: Belly Full of Turkey",
+      "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+      "posterShape": "poster",
+      "description": "How I Met Your Mother · S1E9 · aired 2005-11-21",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tgv_tt0460649_3_9",
+      "type": "series",
+      "name": "How I Met Your Mother: Slapsgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+      "posterShape": "poster",
+      "description": "How I Met Your Mother · S3E9 · aired 2007-11-19",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tgv_tt1442464_1_8",
+      "type": "series",
+      "name": "The Middle: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1442464/img",
+      "posterShape": "poster",
+      "description": "The Middle · S1E8 · aired 2009-11-25",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tgv_tt1826940_1_6",
+      "type": "series",
+      "name": "New Girl: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1826940/img",
+      "posterShape": "poster",
+      "description": "New Girl · S1E6 · aired 2011-11-15",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tgv_tt1587678_3_4",
+      "type": "series",
+      "name": "Happy Endings: More Like Stanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1587678/img",
+      "posterShape": "poster",
+      "description": "Happy Endings · S3E4 · aired 2012-11-20",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt2211129_1_6",
+      "type": "series",
+      "name": "The Mindy Project: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt2211129/img",
+      "posterShape": "poster",
+      "description": "The Mindy Project · S1E6 · aired 2012-11-20",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt1439629_4_5",
+      "type": "series",
+      "name": "Community: Cooperative Escapism in Familial Relations",
+      "poster": "https://images.metahub.space/poster/medium/tt1439629/img",
+      "posterShape": "poster",
+      "description": "Community · S4E5 · aired 2013-03-07",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt2467372_1_10",
+      "type": "series",
+      "name": "Brooklyn Nine-Nine: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt2467372/img",
+      "posterShape": "poster",
+      "description": "Brooklyn Nine-Nine · S1E10 · aired 2013-11-26",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt1442437_6_8",
+      "type": "series",
+      "name": "Modern Family: Three Turkeys",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S6E8 · aired 2014-11-19",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt2712740_2_7",
+      "type": "series",
+      "name": "The Goldbergs: A Goldberg Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt2712740/img",
+      "posterShape": "poster",
+      "description": "The Goldbergs · S2E7 · aired 2014-11-19",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt3551096_2_8",
+      "type": "series",
+      "name": "Fresh Off the Boat: Huangsgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+      "posterShape": "poster",
+      "description": "Fresh Off the Boat · S2E8 · aired 2015-11-17",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tgv_tt4477976_2_9",
+      "type": "series",
+      "name": "Superstore: Black Friday",
+      "poster": "https://images.metahub.space/poster/medium/tt4477976/img",
+      "posterShape": "poster",
+      "description": "Superstore · S2E9 · aired 2016-11-10",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt3551096_3_5",
+      "type": "series",
+      "name": "Fresh Off the Boat: No Thanks-giving",
+      "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+      "posterShape": "poster",
+      "description": "Fresh Off the Boat · S3E5 · aired 2016-11-15",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt3487356_3_7",
+      "type": "series",
+      "name": "black-ish: Auntsgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt3487356/img",
+      "posterShape": "poster",
+      "description": "black-ish · S3E7 · aired 2016-11-16",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt1442437_8_7",
+      "type": "series",
+      "name": "Modern Family: Thanksgiving Jamboree",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S8E7 · aired 2016-11-16",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt4635276_2_8",
+      "type": "series",
+      "name": "Master of None: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt4635276/img",
+      "posterShape": "poster",
+      "description": "Master of None · S2E8 · aired 2017-05-12",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt3551096_4_7",
+      "type": "series",
+      "name": "Fresh Off the Boat: The Day After Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+      "posterShape": "poster",
+      "description": "Fresh Off the Boat · S4E7 · aired 2017-11-14",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt1442437_9_7",
+      "type": "series",
+      "name": "Modern Family: Winner Winner Turkey Dinner",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S9E7 · aired 2017-11-15",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt1442437_11_7",
+      "type": "series",
+      "name": "Modern Family: The Last Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S11E7 · aired 2019-11-20",
+      "releaseInfo": "2019"
+    }
+  ]
+}

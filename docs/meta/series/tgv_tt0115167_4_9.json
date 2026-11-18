@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0115167_4_9",
+    "type": "series",
+    "name": "Everybody Loves Raymond: No Thanks",
+    "poster": "https://images.metahub.space/poster/medium/tt0115167/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/495/1238528.jpg",
+    "description": "Everybody Loves Raymond · Season 4, Episode 9 · aired 1999-11-22\n\nInspired by how well the Barones got along at Thanksgiving dinner, Debra is intent on finding a way to improve her relationship with Marie. When Debra spends the whole day cooking with Marie, it's the perfect opportunity to test out her new \"shrug it off and let the criticisms roll off your back\" attitude that she feels will win Marie over. Meanwhile, Ray gets roped into having Frank and Robert accompany him to a car show, where he has his own method of getting along with his family.",
+    "releaseInfo": "1999",
+    "released": "1999-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0115167:4:9",
+        "title": "No Thanks",
+        "season": 4,
+        "episode": 9,
+        "released": "1999-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/495/1238528.jpg",
+        "overview": "Inspired by how well the Barones got along at Thanksgiving dinner, Debra is intent on finding a way to improve her relationship with Marie. When Debra spends the whole day cooking with Marie, it's the perfect opportunity to test out her new \"shrug it off and let the criticisms roll off your back\" attitude that she feels will win Marie over. Meanwhile, Ray gets roped into having Frank and Robert accompany him to a car show, where he has his own method of getting along with his family."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0115167:4:9"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1710308_5_12",
+    "type": "series",
+    "name": "Regular Show: The Thanksgiving Special",
+    "poster": "https://images.metahub.space/poster/medium/tt1710308/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/599/1498208.jpg",
+    "description": "Regular Show · Season 5, Episode 12 · aired 2013-11-25",
+    "releaseInfo": "2013",
+    "released": "2013-11-25T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1710308:5:12",
+        "title": "The Thanksgiving Special",
+        "season": 5,
+        "episode": 12,
+        "released": "2013-11-25T00:00:00.000Z",
+        "thumbnail": null,
+        "overview": null
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1710308:5:12"
+    }
+  }
+}

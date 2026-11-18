@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_10_8",
+    "type": "series",
+    "name": "Bob's Burgers: Now We're Not Cooking with Gas",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/227/569060.jpg",
+    "description": "Bob's Burgers · Season 10, Episode 8 · aired 2019-11-24\n\nBob is determined to do whatever it takes to cook a rare, heritage turkey after the gas goes out on Thanksgiving.",
+    "releaseInfo": "2019",
+    "released": "2019-11-24T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:10:8",
+        "title": "Now We're Not Cooking with Gas",
+        "season": 10,
+        "episode": 8,
+        "released": "2019-11-24T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/227/569060.jpg",
+        "overview": "Bob is determined to do whatever it takes to cook a rare, heritage turkey after the gas goes out on Thanksgiving."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:10:8"
+    }
+  }
+}

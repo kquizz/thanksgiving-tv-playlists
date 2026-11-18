@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_10_8",
+    "type": "series",
+    "name": "Friends: The One With the Late Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/197/492526.jpg",
+    "description": "Friends · Season 10, Episode 8 · aired 2003-11-20\n\nAfter Monica announces that she's not cooking Thanksgiving dinner this year, Phoebe talks her back into it. Ross, Rachel, Phoebe and Joey are all late to the dinner, thanks to a baby beauty contest and a Rangers game, so Monica and Chandler lock them out. The gang is united again when Monica gets a phone call informing her that a pregnant girl from Ohio has selected her to adopt her unborn baby.",
+    "releaseInfo": "2003",
+    "released": "2003-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:10:8",
+        "title": "The One With the Late Thanksgiving",
+        "season": 10,
+        "episode": 8,
+        "released": "2003-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/197/492526.jpg",
+        "overview": "After Monica announces that she's not cooking Thanksgiving dinner this year, Phoebe talks her back into it. Ross, Rachel, Phoebe and Joey are all late to the dinner, thanks to a baby beauty contest and a Rangers game, so Monica and Chandler lock them out. The gang is united again when Monica gets a phone call informing her that a pregnant girl from Ohio has selected her to adopt her unborn baby."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:10:8"
+    }
+  }
+}

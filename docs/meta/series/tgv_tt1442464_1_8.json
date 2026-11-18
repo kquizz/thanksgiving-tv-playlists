@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1442464_1_8",
+    "type": "series",
+    "name": "The Middle: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt1442464/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/89/222927.jpg",
+    "description": "The Middle · Season 1, Episode 8 · aired 2009-11-25\n\nFrankie's dream of an idyllic family Thanksgiving is thwarted when Mr. Ehlert forces the staff to work on the holiday. Meanwhile, Frankie and Mike approve of a clueless Sue's first boyfriend -- who turns out to be a safe choice -- and a panicked Axl loses Brick in a corn maze.",
+    "releaseInfo": "2009",
+    "released": "2009-11-25T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1442464:1:8",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 8,
+        "released": "2009-11-25T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/89/222927.jpg",
+        "overview": "Frankie's dream of an idyllic family Thanksgiving is thwarted when Mr. Ehlert forces the staff to work on the holiday. Meanwhile, Frankie and Mike approve of a clueless Sue's first boyfriend -- who turns out to be a safe choice -- and a panicked Axl loses Brick in a corn maze."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1442464:1:8"
+    }
+  }
+}

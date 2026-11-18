@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_3_5",
+    "type": "series",
+    "name": "Bob's Burgers: An Indecent Thanksgiving Proposal",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/194/485981.jpg",
+    "description": "Bob's Burgers · Season 3, Episode 5 · aired 2012-11-18\n\nIn the series' first-ever Thanksgiving episode, it's Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder (guest star Kevin Kline) needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous.",
+    "releaseInfo": "2012",
+    "released": "2012-11-18T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:3:5",
+        "title": "An Indecent Thanksgiving Proposal",
+        "season": 3,
+        "episode": 5,
+        "released": "2012-11-18T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/194/485981.jpg",
+        "overview": "In the series' first-ever Thanksgiving episode, it's Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder (guest star Kevin Kline) needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:3:5"
+    }
+  }
+}

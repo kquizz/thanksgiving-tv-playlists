@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0141842_3_8",
+    "type": "series",
+    "name": "The Sopranos: He is Risen",
+    "poster": "https://images.metahub.space/poster/medium/tt0141842/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/201/504317.jpg",
+    "description": "The Sopranos · Season 3, Episode 8 · aired 2001-04-15\n\nTensions rise between Tony and Ralphie until circumstances demand that they resolve their differences. Meadow gets involved with Jackie's son, and ends up in trouble.",
+    "releaseInfo": "2001",
+    "released": "2001-04-15T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0141842:3:8",
+        "title": "He is Risen",
+        "season": 3,
+        "episode": 8,
+        "released": "2001-04-15T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/201/504317.jpg",
+        "overview": "Tensions rise between Tony and Ralphie until circumstances demand that they resolve their differences. Meadow gets involved with Jackie's son, and ends up in trouble."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0141842:3:8"
+    }
+  }
+}
