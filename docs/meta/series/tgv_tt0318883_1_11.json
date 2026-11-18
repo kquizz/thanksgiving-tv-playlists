@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0318883_1_11",
+    "type": "series",
+    "name": "Everwood: A Thanksgiving Tale",
+    "poster": "https://images.metahub.space/poster/medium/tt0318883/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/305/764206.jpg",
+    "description": "Everwood · Season 1, Episode 11 · aired 2002-11-25\n\nDelia yearns for a Thanksgiving dinner just like her mother prepared. A recluse who broke off all family ties is asked to be a kidney donor for his brother. Harold undergoes a George Bailey-like transformation.",
+    "releaseInfo": "2002",
+    "released": "2002-11-25T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0318883:1:11",
+        "title": "A Thanksgiving Tale",
+        "season": 1,
+        "episode": 11,
+        "released": "2002-11-25T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/305/764206.jpg",
+        "overview": "Delia yearns for a Thanksgiving dinner just like her mother prepared. A recluse who broke off all family ties is asked to be a kidney donor for his brother. Harold undergoes a George Bailey-like transformation."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0318883:1:11"
+    }
+  }
+}

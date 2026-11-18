@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0200276_2_8",
+    "type": "series",
+    "name": "The West Wing: Shibboleth",
+    "poster": "https://images.metahub.space/poster/medium/tt0200276/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/145/364010.jpg",
+    "description": "The West Wing · Season 2, Episode 8 · aired 2000-11-22\n\nToby encourages the President to appoint Leo's controversial sister to a national education post, against Leo's objections; Bartlet must decide what the do with 83 Chinese citizens who stowed away on a freighter ship and seek asylum on the grounds of religious persecution; CJ has to decide which one of two turkeys the President should \"pardon\" but then tries to save the other from the chopping block; Charlie is tasked with buying the President a new carving knife which is not as easy as it sounds.",
+    "releaseInfo": "2000",
+    "released": "2000-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0200276:2:8",
+        "title": "Shibboleth",
+        "season": 2,
+        "episode": 8,
+        "released": "2000-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/145/364010.jpg",
+        "overview": "Toby encourages the President to appoint Leo's controversial sister to a national education post, against Leo's objections; Bartlet must decide what the do with 83 Chinese citizens who stowed away on a freighter ship and seek asylum on the grounds of religious persecution; CJ has to decide which one of two turkeys the President should \"pardon\" but then tries to save the other from the chopping block; Charlie is tasked with buying the President a new carving knife which is not as easy as it sounds."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0200276:2:8"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1416765_2_10",
+    "type": "series",
+    "name": "Parenthood: Happy Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt1416765/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/33/84634.jpg",
+    "description": "Parenthood · Season 2, Episode 10 · aired 2010-11-23\n\nAdam fears his future, and he is torn between his job and family after surprising news from Gordon. While preparing Thanksgiving dinner, Camille and Amber share a bonding moment. Meanwhile, Drew feels uncomfortable about his mom, bringing Gordon to dinner. Crosby tries to impress his future mother-in-law. Elsewhere, Julia tries to embrace her domestic side by making pies for dinner, but snaps at Sydney. M",
+    "releaseInfo": "2010",
+    "released": "2010-11-23T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1416765:2:10",
+        "title": "Happy Thanksgiving",
+        "season": 2,
+        "episode": 10,
+        "released": "2010-11-23T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/33/84634.jpg",
+        "overview": "Adam fears his future, and he is torn between his job and family after surprising news from Gordon. While preparing Thanksgiving dinner, Camille and Amber share a bonding moment. Meanwhile, Drew feels uncomfortable about his mom, bringing Gordon to dinner. Crosby tries to impress his future mother-in-law. Elsewhere, Julia tries to embrace her domestic side by making pies for dinner, but snaps at Sydney. M"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1416765:2:10"
+    }
+  }
+}

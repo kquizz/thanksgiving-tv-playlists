@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0106004_4_7",
+    "type": "series",
+    "name": "Frasier: A Lilith Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0106004/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/495/1239120.jpg",
+    "description": "Frasier · Season 4, Episode 7 · aired 1996-11-26\n\nLilith and Frasier turn Thanksgiving into a real turkey for the headmaster of the private school they want their son to attend.",
+    "releaseInfo": "1996",
+    "released": "1996-11-26T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0106004:4:7",
+        "title": "A Lilith Thanksgiving",
+        "season": 4,
+        "episode": 7,
+        "released": "1996-11-26T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/495/1239120.jpg",
+        "overview": "Lilith and Frasier turn Thanksgiving into a real turkey for the headmaster of the private school they want their son to attend."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0106004:4:7"
+    }
+  }
+}

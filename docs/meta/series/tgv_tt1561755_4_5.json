@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_4_5",
+    "type": "series",
+    "name": "Bob's Burgers: Turkey in a Can",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/47/119497.jpg",
+    "description": "Bob's Burgers · Season 4, Episode 5 · aired 2013-11-24\n\nDetermined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
+    "releaseInfo": "2013",
+    "released": "2013-11-24T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:4:5",
+        "title": "Turkey in a Can",
+        "season": 4,
+        "episode": 5,
+        "released": "2013-11-24T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/47/119497.jpg",
+        "overview": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:4:5"
+    }
+  }
+}

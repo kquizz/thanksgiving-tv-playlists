@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0413573_2_9",
+    "type": "series",
+    "name": "Grey's Anatomy: Thanks for the Memories",
+    "poster": "https://images.metahub.space/poster/medium/tt0413573/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/15/39252.jpg",
+    "description": "Grey's Anatomy · Season 2, Episode 9 · aired 2005-11-20\n\nThe Thanksgiving holiday is more difficult for the interns and residents than any of them is willing to admit, as Izzie plans a big dinner at Meredith's -- but it remains to be seen who among the invited guests will actually show up. Meanwhile, George endures the O'Malley tradition of hunting turkeys with his less-than-sophisticated family, and Meredith treats a patient who's been in a vegetative state for 16 years.",
+    "releaseInfo": "2005",
+    "released": "2005-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0413573:2:9",
+        "title": "Thanks for the Memories",
+        "season": 2,
+        "episode": 9,
+        "released": "2005-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/15/39252.jpg",
+        "overview": "The Thanksgiving holiday is more difficult for the interns and residents than any of them is willing to admit, as Izzie plans a big dinner at Meredith's -- but it remains to be seen who among the invited guests will actually show up. Meanwhile, George endures the O'Malley tradition of hunting turkeys with his less-than-sophisticated family, and Meredith treats a patient who's been in a vegetative state for 16 years."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0413573:2:9"
+    }
+  }
+}

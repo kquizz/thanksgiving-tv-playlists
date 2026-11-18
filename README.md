@@ -12,7 +12,15 @@ Every episode was matched against [TVMaze](https://www.tvmaze.com/) for correct 
 | [`all-episodes.json`](all-episodes.json) | Same, as JSON |
 | [`playlists/`](playlists/) | One JSON file per playlist, in watch order |
 
-Each entry has the show, season/episode, episode title, original air date, genre and IMDb ID. The `stremio_id` field (`pl:{imdbId}:{season}:{episode}`) matches the format of a self-hosted Stremio playlists add-on; ignore it if you don't use one.
+Each entry has the show, season/episode, episode title, original air date, genre and IMDb ID. The `stremio_id` field is the standard Stremio episode id (`{imdbId}:{season}:{episode}`).
+
+## Use it in Stremio
+
+Install the add-on by pasting `https://kquizz.github.io/thanksgiving-tv-playlists/manifest.json` into Stremio's add-on search box. The playlists appear as rows on the Board and under Discover → Series. This add-on only lists episodes — playback comes from whatever stream add-ons you already use.
+
+## Rebuilding the add-on
+
+`python3 scripts/build_addon.py` regenerates `docs/` from `playlists/`.
 
 ## Playlists
 

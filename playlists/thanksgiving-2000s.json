@@ -12,7 +12,7 @@
       "air_date": "2000-11-22",
       "genre": "dramas",
       "imdb_id": "tt0200276",
-      "stremio_id": "pl:tt0200276:2:8"
+      "stremio_id": "tt0200276:2:8"
     },
     {
       "show": "The Sopranos",
@@ -23,7 +23,7 @@
       "air_date": "2001-04-15",
       "genre": "dramas",
       "imdb_id": "tt0141842",
-      "stremio_id": "pl:tt0141842:3:8"
+      "stremio_id": "tt0141842:3:8"
     },
     {
       "show": "Friends",
@@ -34,7 +34,7 @@
       "air_date": "2001-11-22",
       "genre": "comedies",
       "imdb_id": "tt0108778",
-      "stremio_id": "pl:tt0108778:8:9"
+      "stremio_id": "tt0108778:8:9"
     },
     {
       "show": "Will & Grace",
@@ -45,7 +45,7 @@
       "air_date": "2001-11-22",
       "genre": "comedies",
       "imdb_id": "tt0157246",
-      "stremio_id": "pl:tt0157246:4:9"
+      "stremio_id": "tt0157246:4:9"
     },
     {
       "show": "Will & Grace",
@@ -56,7 +56,7 @@
       "air_date": "2001-11-22",
       "genre": "comedies",
       "imdb_id": "tt0157246",
-      "stremio_id": "pl:tt0157246:4:10"
+      "stremio_id": "tt0157246:4:10"
     },
     {
       "show": "Friends",
@@ -67,7 +67,7 @@
       "air_date": "2002-11-21",
       "genre": "comedies",
       "imdb_id": "tt0108778",
-      "stremio_id": "pl:tt0108778:9:8"
+      "stremio_id": "tt0108778:9:8"
     },
     {
       "show": "Everwood",
@@ -78,7 +78,7 @@
       "air_date": "2002-11-25",
       "genre": "dramas",
       "imdb_id": "tt0318883",
-      "stremio_id": "pl:tt0318883:1:11"
+      "stremio_id": "tt0318883:1:11"
     },
     {
       "show": "Gilmore Girls",
@@ -89,7 +89,7 @@
       "air_date": "2002-11-26",
       "genre": "comedies",
       "imdb_id": "tt0238784",
-      "stremio_id": "pl:tt0238784:3:9"
+      "stremio_id": "tt0238784:3:9"
     },
     {
       "show": "Friends",
@@ -100,7 +100,7 @@
       "air_date": "2003-11-20",
       "genre": "comedies",
       "imdb_id": "tt0108778",
-      "stremio_id": "pl:tt0108778:10:8"
+      "stremio_id": "tt0108778:10:8"
     },
     {
       "show": "Grey's Anatomy",
@@ -111,7 +111,7 @@
       "air_date": "2005-11-20",
       "genre": "dramas",
       "imdb_id": "tt0413573",
-      "stremio_id": "pl:tt0413573:2:9"
+      "stremio_id": "tt0413573:2:9"
     },
     {
       "show": "How I Met Your Mother",
@@ -122,7 +122,7 @@
       "air_date": "2005-11-21",
       "genre": "comedies",
       "imdb_id": "tt0460649",
-      "stremio_id": "pl:tt0460649:1:9"
+      "stremio_id": "tt0460649:1:9"
     },
     {
       "show": "Ugly Betty",
@@ -133,7 +133,7 @@
       "air_date": "2006-11-16",
       "genre": "dramas",
       "imdb_id": "tt0805669",
-      "stremio_id": "pl:tt0805669:1:8"
+      "stremio_id": "tt0805669:1:8"
     },
     {
       "show": "How I Met Your Mother",
@@ -144,7 +144,7 @@
       "air_date": "2007-11-19",
       "genre": "comedies",
       "imdb_id": "tt0460649",
-      "stremio_id": "pl:tt0460649:3:9"
+      "stremio_id": "tt0460649:3:9"
     },
     {
       "show": "Gossip Girl",
@@ -155,7 +155,7 @@
       "air_date": "2007-11-28",
       "genre": "dramas",
       "imdb_id": "tt0397442",
-      "stremio_id": "pl:tt0397442:1:9"
+      "stremio_id": "tt0397442:1:9"
     },
     {
       "show": "Dexter",
@@ -166,7 +166,7 @@
       "air_date": "2009-11-22",
       "genre": "dramas",
       "imdb_id": "tt0773262",
-      "stremio_id": "pl:tt0773262:4:9"
+      "stremio_id": "tt0773262:4:9"
     },
     {
       "show": "The Middle",
@@ -177,7 +177,7 @@
       "air_date": "2009-11-25",
       "genre": "comedies",
       "imdb_id": "tt1442464",
-      "stremio_id": "pl:tt1442464:1:8"
+      "stremio_id": "tt1442464:1:8"
     },
     {
       "show": "Gossip Girl",
@@ -188,7 +188,7 @@
       "air_date": "2009-11-30",
       "genre": "dramas",
       "imdb_id": "tt0397442",
-      "stremio_id": "pl:tt0397442:3:11"
+      "stremio_id": "tt0397442:3:11"
     }
   ]
 }

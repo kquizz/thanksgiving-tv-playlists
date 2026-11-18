@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt7660850_1_5",
+    "type": "series",
+    "name": "Succession: I Went to Market",
+    "poster": "https://images.metahub.space/poster/medium/tt7660850/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/159/398343.jpg",
+    "description": "Succession · Season 1, Episode 5 · aired 2018-07-01\n\nAfter hearing Logan's plan to expand to local TV, Kendall begins to plot a vote of no confidence against his father. Greg drives his ornery grandfather, Ewan , from Canada to New York for a Thanksgiving reunion with Logan . Tom grows increasingly concerned about the terms of his prenuptial agreement with Shiv , and recruits Greg for a clandestine task. The family is surprised by Connor's choice of date at Thanksgiving dinner.",
+    "releaseInfo": "2018",
+    "released": "2018-07-01T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt7660850:1:5",
+        "title": "I Went to Market",
+        "season": 1,
+        "episode": 5,
+        "released": "2018-07-01T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398343.jpg",
+        "overview": "After hearing Logan's plan to expand to local TV, Kendall begins to plot a vote of no confidence against his father. Greg drives his ornery grandfather, Ewan , from Canada to New York for a Thanksgiving reunion with Logan . Tom grows increasingly concerned about the terms of his prenuptial agreement with Shiv , and recruits Greg for a clandestine task. The family is surprised by Connor's choice of date at Thanksgiving dinner."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt7660850:1:5"
+    }
+  }
+}

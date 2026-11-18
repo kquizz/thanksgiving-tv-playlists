@@ -1,0 +1,337 @@
+{
+  "metas": [
+    {
+      "id": "tgv_tt0758745_4_13",
+      "type": "series",
+      "name": "Friday Night Lights: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0758745/img",
+      "posterShape": "poster",
+      "description": "Friday Night Lights · S4E13 · aired 2010-02-10",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tgv_tt1416765_2_10",
+      "type": "series",
+      "name": "Parenthood: Happy Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1416765/img",
+      "posterShape": "poster",
+      "description": "Parenthood · S2E10 · aired 2010-11-23",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tgv_tt0121955_15_13",
+      "type": "series",
+      "name": "South Park: A History Channel Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0121955/img",
+      "posterShape": "poster",
+      "description": "South Park · S15E13 · aired 2011-11-09",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tgv_tt1826940_1_6",
+      "type": "series",
+      "name": "New Girl: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1826940/img",
+      "posterShape": "poster",
+      "description": "New Girl · S1E6 · aired 2011-11-15",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tgv_tt0182576_10_6",
+      "type": "series",
+      "name": "Family Guy: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+      "posterShape": "poster",
+      "description": "Family Guy · S10E6 · aired 2011-11-20",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tgv_tt1561755_3_5",
+      "type": "series",
+      "name": "Bob's Burgers: An Indecent Thanksgiving Proposal",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S3E5 · aired 2012-11-18",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt1587678_3_4",
+      "type": "series",
+      "name": "Happy Endings: More Like Stanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1587678/img",
+      "posterShape": "poster",
+      "description": "Happy Endings · S3E4 · aired 2012-11-20",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt2211129_1_6",
+      "type": "series",
+      "name": "The Mindy Project: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt2211129/img",
+      "posterShape": "poster",
+      "description": "The Mindy Project · S1E6 · aired 2012-11-20",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt1195935_4_4",
+      "type": "series",
+      "name": "The Cleveland Show: Turkey Pot Die",
+      "poster": "https://images.metahub.space/poster/medium/tt1195935/img",
+      "posterShape": "poster",
+      "description": "The Cleveland Show · S4E4 · aired 2012-11-25",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tgv_tt1439629_4_5",
+      "type": "series",
+      "name": "Community: Cooperative Escapism in Familial Relations",
+      "poster": "https://images.metahub.space/poster/medium/tt1439629/img",
+      "posterShape": "poster",
+      "description": "Community · S4E5 · aired 2013-03-07",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt1561755_4_5",
+      "type": "series",
+      "name": "Bob's Burgers: Turkey in a Can",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S4E5 · aired 2013-11-24",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt0397306_9_5",
+      "type": "series",
+      "name": "American Dad!: Kung Pao Turkey",
+      "poster": "https://images.metahub.space/poster/medium/tt0397306/img",
+      "posterShape": "poster",
+      "description": "American Dad! · S9E5 · aired 2013-11-24",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt1710308_5_12",
+      "type": "series",
+      "name": "Regular Show: The Thanksgiving Special",
+      "poster": "https://images.metahub.space/poster/medium/tt1710308/img",
+      "posterShape": "poster",
+      "description": "Regular Show · S5E12 · aired 2013-11-25",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt2467372_1_10",
+      "type": "series",
+      "name": "Brooklyn Nine-Nine: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt2467372/img",
+      "posterShape": "poster",
+      "description": "Brooklyn Nine-Nine · S1E10 · aired 2013-11-26",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tgv_tt0182576_13_5",
+      "type": "series",
+      "name": "Family Guy: Turkey Guys",
+      "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+      "posterShape": "poster",
+      "description": "Family Guy · S13E5 · aired 2014-11-16",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt1442437_6_8",
+      "type": "series",
+      "name": "Modern Family: Three Turkeys",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S6E8 · aired 2014-11-19",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt2712740_2_7",
+      "type": "series",
+      "name": "The Goldbergs: A Goldberg Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt2712740/img",
+      "posterShape": "poster",
+      "description": "The Goldbergs · S2E7 · aired 2014-11-19",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt1561755_5_4",
+      "type": "series",
+      "name": "Bob's Burgers: Dawn of the Peck",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S5E4 · aired 2014-11-23",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tgv_tt1561755_6_4",
+      "type": "series",
+      "name": "Bob's Burgers: Gayle Makin' Bob Sled",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S6E4 · aired 2015-11-08",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tgv_tt3551096_2_8",
+      "type": "series",
+      "name": "Fresh Off the Boat: Huangsgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+      "posterShape": "poster",
+      "description": "Fresh Off the Boat · S2E8 · aired 2015-11-17",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tgv_tt4477976_2_9",
+      "type": "series",
+      "name": "Superstore: Black Friday",
+      "poster": "https://images.metahub.space/poster/medium/tt4477976/img",
+      "posterShape": "poster",
+      "description": "Superstore · S2E9 · aired 2016-11-10",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt3551096_3_5",
+      "type": "series",
+      "name": "Fresh Off the Boat: No Thanks-giving",
+      "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+      "posterShape": "poster",
+      "description": "Fresh Off the Boat · S3E5 · aired 2016-11-15",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt3487356_3_7",
+      "type": "series",
+      "name": "black-ish: Auntsgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt3487356/img",
+      "posterShape": "poster",
+      "description": "black-ish · S3E7 · aired 2016-11-16",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt1442437_8_7",
+      "type": "series",
+      "name": "Modern Family: Thanksgiving Jamboree",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S8E7 · aired 2016-11-16",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt5555260_1_8",
+      "type": "series",
+      "name": "This Is Us: Pilgrim Rick",
+      "poster": "https://images.metahub.space/poster/medium/tt5555260/img",
+      "posterShape": "poster",
+      "description": "This Is Us · S1E8 · aired 2016-11-22",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tgv_tt4635276_2_8",
+      "type": "series",
+      "name": "Master of None: Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt4635276/img",
+      "posterShape": "poster",
+      "description": "Master of None · S2E8 · aired 2017-05-12",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt3551096_4_7",
+      "type": "series",
+      "name": "Fresh Off the Boat: The Day After Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+      "posterShape": "poster",
+      "description": "Fresh Off the Boat · S4E7 · aired 2017-11-14",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt1442437_9_7",
+      "type": "series",
+      "name": "Modern Family: Winner Winner Turkey Dinner",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S9E7 · aired 2017-11-15",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt1561755_8_5",
+      "type": "series",
+      "name": "Bob's Burgers: Thanks-Hoarding",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S8E5 · aired 2017-11-19",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tgv_tt7660850_1_5",
+      "type": "series",
+      "name": "Succession: I Went to Market",
+      "poster": "https://images.metahub.space/poster/medium/tt7660850/img",
+      "posterShape": "poster",
+      "description": "Succession · S1E5 · aired 2018-07-01",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tgv_tt1561755_9_7",
+      "type": "series",
+      "name": "Bob's Burgers: I Bob Your Pardon",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S9E7 · aired 2018-11-18",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tgv_tt5555260_3_8",
+      "type": "series",
+      "name": "This Is Us: Six Thanksgivings",
+      "poster": "https://images.metahub.space/poster/medium/tt5555260/img",
+      "posterShape": "poster",
+      "description": "This Is Us · S3E8 · aired 2018-11-20",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tgv_tt1442437_11_7",
+      "type": "series",
+      "name": "Modern Family: The Last Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+      "posterShape": "poster",
+      "description": "Modern Family · S11E7 · aired 2019-11-20",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tgv_tt0096697_31_8",
+      "type": "series",
+      "name": "The Simpsons: Thanksgiving of Horror",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "posterShape": "poster",
+      "description": "The Simpsons · S31E8 · aired 2019-11-24",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tgv_tt1561755_10_8",
+      "type": "series",
+      "name": "Bob's Burgers: Now We're Not Cooking with Gas",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S10E8 · aired 2019-11-24",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tgv_tt2861424_5_6",
+      "type": "series",
+      "name": "Rick and Morty: Rick & Morty's Thanksploitation Spectacular",
+      "poster": "https://images.metahub.space/poster/medium/tt2861424/img",
+      "posterShape": "poster",
+      "description": "Rick and Morty · S5E6 · aired 2021-07-25",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tgv_tt1561755_13_8",
+      "type": "series",
+      "name": "Bob's Burgers: Putts-giving",
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "posterShape": "poster",
+      "description": "Bob's Burgers · S13E8 · aired 2022-11-20",
+      "releaseInfo": "2022"
+    }
+  ]
+}

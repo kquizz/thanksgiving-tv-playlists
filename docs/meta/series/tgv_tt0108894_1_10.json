@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108894_1_10",
+    "type": "series",
+    "name": "Party of Five: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0108894/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/311/777851.jpg",
+    "description": "Party of Five · Season 1, Episode 10 · aired 1994-11-14\n\nThanksgiving brings back troubling memories for the Salingers, whose grief is compounded by news that the drunken driver who killed their parents has been paroled.",
+    "releaseInfo": "1994",
+    "released": "1994-11-14T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108894:1:10",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 10,
+        "released": "1994-11-14T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/311/777851.jpg",
+        "overview": "Thanksgiving brings back troubling memories for the Salingers, whose grief is compounded by news that the drunken driver who killed their parents has been paroled."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108894:1:10"
+    }
+  }
+}

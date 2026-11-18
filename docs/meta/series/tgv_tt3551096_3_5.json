@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt3551096_3_5",
+    "type": "series",
+    "name": "Fresh Off the Boat: No Thanks-giving",
+    "poster": "https://images.metahub.space/poster/medium/tt3551096/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/85/212551.jpg",
+    "description": "Fresh Off the Boat · Season 3, Episode 5 · aired 2016-11-15\n\nLouis and Jessica decide to open Cattleman's Ranch on Thanksgiving Day, inspiring Emery and Evan to take heed of the restaurant business and perhaps inherit the family legacy someday. Meanwhile, Eddie decides to blow off the rest of eighth grade, so Jessica finds a creative way to teach him the meaning of hard work.",
+    "releaseInfo": "2016",
+    "released": "2016-11-15T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt3551096:3:5",
+        "title": "No Thanks-giving",
+        "season": 3,
+        "episode": 5,
+        "released": "2016-11-15T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/85/212551.jpg",
+        "overview": "Louis and Jessica decide to open Cattleman's Ranch on Thanksgiving Day, inspiring Emery and Evan to take heed of the restaurant business and perhaps inherit the family legacy someday. Meanwhile, Eddie decides to blow off the rest of eighth grade, so Jessica finds a creative way to teach him the meaning of hard work."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt3551096:3:5"
+    }
+  }
+}

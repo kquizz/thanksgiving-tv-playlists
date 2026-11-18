@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0773262_4_9",
+    "type": "series",
+    "name": "Dexter: Hungry Man",
+    "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/566/1415814.jpg",
+    "description": "Dexter · Season 4, Episode 9 · aired 2009-11-22\n\nDexter uses Thanksgiving as an opportunity to get closer to his most dangerous adversary yet.",
+    "releaseInfo": "2009",
+    "released": "2009-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0773262:4:9",
+        "title": "Hungry Man",
+        "season": 4,
+        "episode": 9,
+        "released": "2009-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/566/1415814.jpg",
+        "overview": "Dexter uses Thanksgiving as an opportunity to get closer to his most dangerous adversary yet."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0773262:4:9"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "community.thanksgiving-tv-playlists",
+  "version": "1.0.0",
+  "name": "Thanksgiving TV Playlists",
+  "description": "Curated Thanksgiving episodes of TV comedies, cartoons and dramas, by genre and decade. Catalog only — streams come from your other add-ons.",
+  "resources": [
+    "catalog",
+    {
+      "name": "meta",
+      "types": [
+        "series"
+      ],
+      "idPrefixes": [
+        "tgv_"
+      ]
+    }
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "idPrefixes": [
+    "tgv_"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "thanksgiving-comedies",
+      "name": "Thanksgiving Comedies"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-comedies-classic",
+      "name": "Thanksgiving Comedies: Classic"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-comedies-modern",
+      "name": "Thanksgiving Comedies: Modern"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-animation",
+      "name": "Thanksgiving Animation"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-dramas",
+      "name": "Thanksgiving Dramas"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-60s-80s",
+      "name": "Thanksgiving: 60s–80s"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-90s",
+      "name": "Thanksgiving: 90s"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-2000s",
+      "name": "Thanksgiving: 2000s"
+    },
+    {
+      "type": "series",
+      "id": "thanksgiving-2010s-20s",
+      "name": "Thanksgiving: 2010s–20s"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1442437_11_7",
+    "type": "series",
+    "name": "Modern Family: The Last Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379904.jpg",
+    "description": "Modern Family · Season 11, Episode 7 · aired 2019-11-20\n\nCameron and Mitchell's friends mistakenly assume they have split up and have definitely chosen a side, and Haley attempts to cook Thanksgiving dinner as a thank you for Claire and Phil's support with the twins. Meanwhile, Jay invites Phil and Dylan out to fly his model plane, and Phil thinks this is his chance to reclaim his dignity after their first outing 10 years ago went so wrong.",
+    "releaseInfo": "2019",
+    "released": "2019-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1442437:11:7",
+        "title": "The Last Thanksgiving",
+        "season": 11,
+        "episode": 7,
+        "released": "2019-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379904.jpg",
+        "overview": "Cameron and Mitchell's friends mistakenly assume they have split up and have definitely chosen a side, and Haley attempts to cook Thanksgiving dinner as a thank you for Claire and Phil's support with the twins. Meanwhile, Jay invites Phil and Dylan out to fly his model plane, and Phil thinks this is his chance to reclaim his dignity after their first outing 10 years ago went so wrong."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1442437:11:7"
+    }
+  }
+}

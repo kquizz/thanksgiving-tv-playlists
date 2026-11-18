@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0096697_31_8",
+    "type": "series",
+    "name": "The Simpsons: Thanksgiving of Horror",
+    "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/227/569058.jpg",
+    "description": "The Simpsons · Season 31, Episode 8 · aired 2019-11-24\n\nIn a special Thanksgiving edition of \"Treehouse of Horror,\" the Simpsons are forced to face various Thanksgiving nightmares, including the first Thanksgiving, an A.I. mishap and a dangerous space mission complicated by a sentient cranberry sauce.",
+    "releaseInfo": "2019",
+    "released": "2019-11-24T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0096697:31:8",
+        "title": "Thanksgiving of Horror",
+        "season": 31,
+        "episode": 8,
+        "released": "2019-11-24T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/227/569058.jpg",
+        "overview": "In a special Thanksgiving edition of \"Treehouse of Horror,\" the Simpsons are forced to face various Thanksgiving nightmares, including the first Thanksgiving, an A.I. mishap and a dangerous space mission complicated by a sentient cranberry sauce."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0096697:31:8"
+    }
+  }
+}

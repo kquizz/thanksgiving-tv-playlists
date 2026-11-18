@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_9_8",
+    "type": "series",
+    "name": "Friends: The One With Rachel's Other Sister",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/195/489963.jpg",
+    "description": "Friends · Season 9, Episode 8 · aired 2002-11-21\n\nRachel's self-centered younger sister, Amy, ruins everyone's Thanksgiving dinner with her uncensored observations.",
+    "releaseInfo": "2002",
+    "released": "2002-11-21T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:9:8",
+        "title": "The One With Rachel's Other Sister",
+        "season": 9,
+        "episode": 8,
+        "released": "2002-11-21T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/195/489963.jpg",
+        "overview": "Rachel's self-centered younger sister, Amy, ruins everyone's Thanksgiving dinner with her uncensored observations."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:9:8"
+    }
+  }
+}

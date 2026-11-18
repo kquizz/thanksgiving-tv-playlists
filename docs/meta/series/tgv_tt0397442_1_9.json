@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0397442_1_9",
+    "type": "series",
+    "name": "Gossip Girl: Blair Waldorf Must Pie!",
+    "poster": "https://images.metahub.space/poster/medium/tt0397442/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/180/451833.jpg",
+    "description": "Gossip Girl · Season 1, Episode 9 · aired 2007-11-28\n\nWhen Dan finds out that Serena and her family are celebrating Thanksgiving alone, he naively invites them to spend the holiday with his family.",
+    "releaseInfo": "2007",
+    "released": "2007-11-28T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0397442:1:9",
+        "title": "Blair Waldorf Must Pie!",
+        "season": 1,
+        "episode": 9,
+        "released": "2007-11-28T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/180/451833.jpg",
+        "overview": "When Dan finds out that Serena and her family are celebrating Thanksgiving alone, he naively invites them to spend the holiday with his family."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0397442:1:9"
+    }
+  }
+}

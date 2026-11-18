@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1826940_1_6",
+    "type": "series",
+    "name": "New Girl: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt1826940/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/565/1412739.jpg",
+    "description": "New Girl · Season 1, Episode 6 · aired 2011-11-15\n\nJess invites Paul, a music teacher at her school on whom she always has had a crush, to the gang's big Thanksgiving dinner at the loft, which naturally goes horribly awry.",
+    "releaseInfo": "2011",
+    "released": "2011-11-15T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1826940:1:6",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-11-15T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1412739.jpg",
+        "overview": "Jess invites Paul, a music teacher at her school on whom she always has had a crush, to the gang's big Thanksgiving dinner at the loft, which naturally goes horribly awry."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1826940:1:6"
+    }
+  }
+}

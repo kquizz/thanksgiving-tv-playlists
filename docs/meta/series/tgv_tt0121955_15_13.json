@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0121955_15_13",
+    "type": "series",
+    "name": "South Park: A History Channel Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0121955/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/75/188509.jpg",
+    "description": "South Park · Season 15, Episode 13 · aired 2011-11-09\n\nThe boys learn what really happened at the first Thanksgiving—including an extraterrestrial presence—from a TV documentary.",
+    "releaseInfo": "2011",
+    "released": "2011-11-09T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0121955:15:13",
+        "title": "A History Channel Thanksgiving",
+        "season": 15,
+        "episode": 13,
+        "released": "2011-11-09T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/75/188509.jpg",
+        "overview": "The boys learn what really happened at the first Thanksgiving—including an extraterrestrial presence—from a TV documentary."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0121955:15:13"
+    }
+  }
+}

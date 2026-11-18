@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_9_7",
+    "type": "series",
+    "name": "Bob's Burgers: I Bob Your Pardon",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/175/437937.jpg",
+    "description": "Bob's Burgers · Season 9, Episode 7 · aired 2018-11-18\n\nThe Belchers set out to save a turkey from a trip to the slaughterhouse, but when a local reporter catches wind of their schemes, the mission becomes more complicated than they had anticipated.",
+    "releaseInfo": "2018",
+    "released": "2018-11-18T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:9:7",
+        "title": "I Bob Your Pardon",
+        "season": 9,
+        "episode": 7,
+        "released": "2018-11-18T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/175/437937.jpg",
+        "overview": "The Belchers set out to save a turkey from a trip to the slaughterhouse, but when a local reporter catches wind of their schemes, the mission becomes more complicated than they had anticipated."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:9:7"
+    }
+  }
+}

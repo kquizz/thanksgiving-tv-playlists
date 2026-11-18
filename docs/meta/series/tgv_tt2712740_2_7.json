@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt2712740_2_7",
+    "type": "series",
+    "name": "The Goldbergs: A Goldberg Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt2712740/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/4/11476.jpg",
+    "description": "The Goldbergs · Season 2, Episode 7 · aired 2014-11-19\n\nA bet over Jazzercise between Beverly and Erica ends with the younger Goldberg deciding to opt out of celebrating Thanksgiving with her family; at the same time, Uncle Marvin shows up for the holiday and unexpectedly bonds with Adam, much to the annoyance of Murray",
+    "releaseInfo": "2014",
+    "released": "2014-11-19T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt2712740:2:7",
+        "title": "A Goldberg Thanksgiving",
+        "season": 2,
+        "episode": 7,
+        "released": "2014-11-19T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/4/11476.jpg",
+        "overview": "A bet over Jazzercise between Beverly and Erica ends with the younger Goldberg deciding to opt out of celebrating Thanksgiving with her family; at the same time, Uncle Marvin shows up for the holiday and unexpectedly bonds with Adam, much to the annoyance of Murray"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt2712740:2:7"
+    }
+  }
+}

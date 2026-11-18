@@ -1,0 +1,56 @@
+{
+  "metas": [
+    {
+      "id": "tgv_tt0057733_4_12",
+      "type": "series",
+      "name": "Bewitched: Samantha's Thanksgiving to Remember",
+      "poster": "https://images.metahub.space/poster/medium/tt0057733/img",
+      "posterShape": "poster",
+      "description": "Bewitched · S4E12 · aired 1967-11-23",
+      "releaseInfo": "1967"
+    },
+    {
+      "id": "tgv_tt0068149_2_10",
+      "type": "series",
+      "name": "The Waltons: The Thanksgiving Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0068149/img",
+      "posterShape": "poster",
+      "description": "The Waltons · S2E10 · aired 1973-11-15",
+      "releaseInfo": "1973"
+    },
+    {
+      "id": "tt0068359",
+      "type": "movie",
+      "name": "A Charlie Brown Thanksgiving",
+      "poster": "https://images.metahub.space/poster/medium/tt0068359/img",
+      "releaseInfo": "1973"
+    },
+    {
+      "id": "tgv_tt0068049_4_11",
+      "type": "series",
+      "name": "The Bob Newhart Show: Over the River and Through the Woods",
+      "poster": "https://images.metahub.space/poster/medium/tt0068049/img",
+      "posterShape": "poster",
+      "description": "The Bob Newhart Show · S4E11 · aired 1975-11-22",
+      "releaseInfo": "1975"
+    },
+    {
+      "id": "tgv_tt0077097_1_7",
+      "type": "series",
+      "name": "WKRP in Cincinnati: Turkeys Away",
+      "poster": "https://images.metahub.space/poster/medium/tt0077097/img",
+      "posterShape": "poster",
+      "description": "WKRP in Cincinnati · S1E7 · aired 1978-10-30",
+      "releaseInfo": "1978"
+    },
+    {
+      "id": "tgv_tt0083399_5_9",
+      "type": "series",
+      "name": "Cheers: Thanksgiving Orphans",
+      "poster": "https://images.metahub.space/poster/medium/tt0083399/img",
+      "posterShape": "poster",
+      "description": "Cheers · S5E9 · aired 1986-11-27",
+      "releaseInfo": "1986"
+    }
+  ]
+}

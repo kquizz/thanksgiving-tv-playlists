@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt4477976_2_9",
+    "type": "series",
+    "name": "Superstore: Black Friday",
+    "poster": "https://images.metahub.space/poster/medium/tt4477976/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/425/1062817.jpg",
+    "description": "Superstore · Season 2, Episode 9 · aired 2016-11-10\n\nThe employees come down with a case of food poisoning on Black Friday, but Amy is frantic when she thinks her nausea may be morning sickness. Meanwhile, Jonah annoys everyone by documenting the day with home video; Glenn's demeanor has changed after a trip to the pharmacy; Garrett continues to push Dina's buttons, with surprising results; and Mateo and Cheyenne find a way to turn Black Friday into a lucrative side business.",
+    "releaseInfo": "2016",
+    "released": "2016-11-10T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt4477976:2:9",
+        "title": "Black Friday",
+        "season": 2,
+        "episode": 9,
+        "released": "2016-11-10T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/425/1062817.jpg",
+        "overview": "The employees come down with a case of food poisoning on Black Friday, but Amy is frantic when she thinks her nausea may be morning sickness. Meanwhile, Jonah annoys everyone by documenting the day with home video; Glenn's demeanor has changed after a trip to the pharmacy; Garrett continues to push Dina's buttons, with surprising results; and Mateo and Cheyenne find a way to turn Black Friday into a lucrative side business."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt4477976:2:9"
+    }
+  }
+}

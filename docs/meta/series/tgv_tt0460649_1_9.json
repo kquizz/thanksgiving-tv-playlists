@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0460649_1_9",
+    "type": "series",
+    "name": "How I Met Your Mother: Belly Full of Turkey",
+    "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/374/935733.jpg",
+    "description": "How I Met Your Mother · Season 1, Episode 9 · aired 2005-11-21\n\nWhen Ted and Robin give thanks by volunteering at a homeless shelter on Thanksgiving Day, they are shocked when they see the last person they would ever expect doing good for others.",
+    "releaseInfo": "2005",
+    "released": "2005-11-21T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0460649:1:9",
+        "title": "Belly Full of Turkey",
+        "season": 1,
+        "episode": 9,
+        "released": "2005-11-21T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/374/935733.jpg",
+        "overview": "When Ted and Robin give thanks by volunteering at a homeless shelter on Thanksgiving Day, they are shocked when they see the last person they would ever expect doing good for others."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0460649:1:9"
+    }
+  }
+}

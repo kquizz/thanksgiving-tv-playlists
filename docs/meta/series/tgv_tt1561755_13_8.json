@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_13_8",
+    "type": "series",
+    "name": "Bob's Burgers: Putts-giving",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/431/1079361.jpg",
+    "description": "Bob's Burgers · Season 13, Episode 8 · aired 2022-11-20\n\nThe Belchers go to a mini golf course on Thanksgiving morning.",
+    "releaseInfo": "2022",
+    "released": "2022-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:13:8",
+        "title": "Putts-giving",
+        "season": 13,
+        "episode": 8,
+        "released": "2022-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/431/1079361.jpg",
+        "overview": "The Belchers go to a mini golf course on Thanksgiving morning."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:13:8"
+    }
+  }
+}

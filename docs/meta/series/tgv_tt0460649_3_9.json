@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0460649_3_9",
+    "type": "series",
+    "name": "How I Met Your Mother: Slapsgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/136/342394.jpg",
+    "description": "How I Met Your Mother · Season 3, Episode 9 · aired 2007-11-19\n\nAs Lily and Marshall host their first Thanksgiving as a married couple, Barney is tortured by the tick-tock of the slap bet countdown clock and the uncertainty of the exact moment the slap is going to be delivered.",
+    "releaseInfo": "2007",
+    "released": "2007-11-19T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0460649:3:9",
+        "title": "Slapsgiving",
+        "season": 3,
+        "episode": 9,
+        "released": "2007-11-19T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/136/342394.jpg",
+        "overview": "As Lily and Marshall host their first Thanksgiving as a married couple, Barney is tortured by the tick-tock of the slap bet countdown clock and the uncertainty of the exact moment the slap is going to be delivered."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0460649:3:9"
+    }
+  }
+}

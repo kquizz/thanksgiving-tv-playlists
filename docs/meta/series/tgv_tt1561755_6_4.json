@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1561755_6_4",
+    "type": "series",
+    "name": "Bob's Burgers: Gayle Makin' Bob Sled",
+    "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/194/486154.jpg",
+    "description": "Bob's Burgers · Season 6, Episode 4 · aired 2015-11-08\n\nWhen Gayle is injured, Linda sends Bob off to pick her up, so that she doesn't miss out on Thanksgiving festivities. But an unexpected snowstorm derails his trip home, and his epic plan to prepare the turkey is foiled. Bob then must put the fate of the turkey and the Belcher Thanksgiving in Linda's hands and spend time bonding with his sister-in-law.",
+    "releaseInfo": "2015",
+    "released": "2015-11-08T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1561755:6:4",
+        "title": "Gayle Makin' Bob Sled",
+        "season": 6,
+        "episode": 4,
+        "released": "2015-11-08T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/194/486154.jpg",
+        "overview": "When Gayle is injured, Linda sends Bob off to pick her up, so that she doesn't miss out on Thanksgiving festivities. But an unexpected snowstorm derails his trip home, and his epic plan to prepare the turkey is foiled. Bob then must put the fate of the turkey and the Belcher Thanksgiving in Linda's hands and spend time bonding with his sister-in-law."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1561755:6:4"
+    }
+  }
+}

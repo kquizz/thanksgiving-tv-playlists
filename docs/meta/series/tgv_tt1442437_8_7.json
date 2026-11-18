@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt1442437_8_7",
+    "type": "series",
+    "name": "Modern Family: Thanksgiving Jamboree",
+    "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379852.jpg",
+    "description": "Modern Family · Season 8, Episode 7 · aired 2016-11-16\n\nIt's going to be a Thanksgiving jamboree at the Pritchett-Tucker home this year, and Cameron has spared no expense. While Phil tries to get used to Rainer Shine dating his daughter, Haley has to break it to her dad that she would rather spend the rest of her holiday with her new boyfriend than staying for the traditional family football game. Meanwhile, Jay has to figure out a way to keep his blood pressure down on one of the most stressful days of the year, as Gloria tries to show Joe that animals are our friends. Finally, Alex and Dwight get to know each other a little better than her Uncle Cam would like, while Mitchell has to stop clowning around and tell Cam the truth.",
+    "releaseInfo": "2016",
+    "released": "2016-11-16T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt1442437:8:7",
+        "title": "Thanksgiving Jamboree",
+        "season": 8,
+        "episode": 7,
+        "released": "2016-11-16T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379852.jpg",
+        "overview": "It's going to be a Thanksgiving jamboree at the Pritchett-Tucker home this year, and Cameron has spared no expense. While Phil tries to get used to Rainer Shine dating his daughter, Haley has to break it to her dad that she would rather spend the rest of her holiday with her new boyfriend than staying for the traditional family football game. Meanwhile, Jay has to figure out a way to keep his blood pressure down on one of the most stressful days of the year, as Gloria tries to show Joe that animals are our friends. Finally, Alex and Dwight get to know each other a little better than her Uncle Cam would like, while Mitchell has to stop clowning around and tell Cam the truth."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt1442437:8:7"
+    }
+  }
+}

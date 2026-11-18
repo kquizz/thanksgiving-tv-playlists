@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0103484_7_7",
+    "type": "series",
+    "name": "Mad About You: The Thanksgiving Show",
+    "poster": "https://images.metahub.space/poster/medium/tt0103484/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/248/620047.jpg",
+    "description": "Mad About You · Season 7, Episode 7 · aired 1998-11-24\n\nThe Buchmans' Thanksgiving guest list grows to include Mabel's pediatrician, neighbors Hal and Maggie, Jamie's boss, and waitress Ursula, who are all forced into a cutthroat charades competition between Jamie and Paul.",
+    "releaseInfo": "1998",
+    "released": "1998-11-24T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0103484:7:7",
+        "title": "The Thanksgiving Show",
+        "season": 7,
+        "episode": 7,
+        "released": "1998-11-24T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620047.jpg",
+        "overview": "The Buchmans' Thanksgiving guest list grows to include Mabel's pediatrician, neighbors Hal and Maggie, Jamie's boss, and waitress Ursula, who are all forced into a cutthroat charades competition between Jamie and Paul."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0103484:7:7"
+    }
+  }
+}

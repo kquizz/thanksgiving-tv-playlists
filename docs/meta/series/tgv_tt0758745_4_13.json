@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0758745_4_13",
+    "type": "series",
+    "name": "Friday Night Lights: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0758745/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/37/94492.jpg",
+    "description": "Friday Night Lights · Season 4, Episode 13 · aired 2010-02-10\n\nThe Taylors host Thanksgiving dinner; Julie and Landry receive an interesting proposition; Tim makes a difficult decision; East Dillon rallies around the Lions.",
+    "releaseInfo": "2010",
+    "released": "2010-02-10T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0758745:4:13",
+        "title": "Thanksgiving",
+        "season": 4,
+        "episode": 13,
+        "released": "2010-02-10T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/37/94492.jpg",
+        "overview": "The Taylors host Thanksgiving dinner; Julie and Landry receive an interesting proposition; Tim makes a difficult decision; East Dillon rallies around the Lions."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0758745:4:13"
+    }
+  }
+}

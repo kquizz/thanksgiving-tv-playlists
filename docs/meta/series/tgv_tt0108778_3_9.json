@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_3_9",
+    "type": "series",
+    "name": "Friends: The One With the Football",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/45/114585.jpg",
+    "description": "Friends · Season 3, Episode 9 · aired 1996-11-21\n\nRoss and Monica go nose-to-nose in an unfriendly Thanksgiving football game.",
+    "releaseInfo": "1996",
+    "released": "1996-11-21T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:3:9",
+        "title": "The One With the Football",
+        "season": 3,
+        "episode": 9,
+        "released": "1996-11-21T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/45/114585.jpg",
+        "overview": "Ross and Monica go nose-to-nose in an unfriendly Thanksgiving football game."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:3:9"
+    }
+  }
+}

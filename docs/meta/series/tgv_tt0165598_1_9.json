@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0165598_1_9",
+    "type": "series",
+    "name": "That '70s Show: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0165598/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/344/862243.jpg",
+    "description": "That '70s Show · Season 1, Episode 9 · aired 1998-11-22\n\nLaurie brings her friend Kate home with her for Thanksgiving. Red's mother, Bernice, constantly calls, asking about Thanksgiving dinner, much to Kitty's annoyance. Red is reluctant to accept a job offer from Bob.",
+    "releaseInfo": "1998",
+    "released": "1998-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0165598:1:9",
+        "title": "Thanksgiving",
+        "season": 1,
+        "episode": 9,
+        "released": "1998-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/344/862243.jpg",
+        "overview": "Laurie brings her friend Kate home with her for Thanksgiving. Red's mother, Bernice, constantly calls, asking about Thanksgiving dinner, much to Kitty's annoyance. Red is reluctant to accept a job offer from Bob."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0165598:1:9"
+    }
+  }
+}

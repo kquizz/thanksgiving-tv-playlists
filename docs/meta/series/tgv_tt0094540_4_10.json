@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0094540_4_10",
+    "type": "series",
+    "name": "Roseanne: Thanksgiving '91",
+    "poster": "https://images.metahub.space/poster/medium/tt0094540/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/308/770750.jpg",
+    "description": "Roseanne · Season 4, Episode 10 · aired 1991-11-26\n\nThanksgiving brings four generations together to cope with a surprise announcement from Bev.",
+    "releaseInfo": "1991",
+    "released": "1991-11-26T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0094540:4:10",
+        "title": "Thanksgiving '91",
+        "season": 4,
+        "episode": 10,
+        "released": "1991-11-26T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/308/770750.jpg",
+        "overview": "Thanksgiving brings four generations together to cope with a surprise announcement from Bev."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0094540:4:10"
+    }
+  }
+}

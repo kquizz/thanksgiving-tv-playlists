@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt5555260_3_8",
+    "type": "series",
+    "name": "This Is Us: Six Thanksgivings",
+    "poster": "https://images.metahub.space/poster/medium/tt5555260/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/175/438516.jpg",
+    "description": "This Is Us · Season 3, Episode 8 · aired 2018-11-20\n\nThe Pearsons have an unconventional Thanksgiving dinner; in the past, Jack, Rebecca and the Big Three spend Thanksgiving with Miguel.",
+    "releaseInfo": "2018",
+    "released": "2018-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt5555260:3:8",
+        "title": "Six Thanksgivings",
+        "season": 3,
+        "episode": 8,
+        "released": "2018-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/175/438516.jpg",
+        "overview": "The Pearsons have an unconventional Thanksgiving dinner; in the past, Jack, Rebecca and the Big Three spend Thanksgiving with Miguel."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt5555260:3:8"
+    }
+  }
+}

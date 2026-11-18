@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0077097_1_7",
+    "type": "series",
+    "name": "WKRP in Cincinnati: Turkeys Away",
+    "poster": "https://images.metahub.space/poster/medium/tt0077097/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/167/418187.jpg",
+    "description": "WKRP in Cincinnati · Season 1, Episode 7 · aired 1978-10-30\n\nWhen Arthur feels threatened by Andy's success and useless in general, he decides to have a turkey giveaway on Thanksgiving with disastrous results.",
+    "releaseInfo": "1978",
+    "released": "1978-10-30T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0077097:1:7",
+        "title": "Turkeys Away",
+        "season": 1,
+        "episode": 7,
+        "released": "1978-10-30T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/167/418187.jpg",
+        "overview": "When Arthur feels threatened by Andy's success and useless in general, he decides to have a turkey giveaway on Thanksgiving with disastrous results."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0077097:1:7"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0083399_5_9",
+    "type": "series",
+    "name": "Cheers: Thanksgiving Orphans",
+    "poster": "https://images.metahub.space/poster/medium/tt0083399/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/495/1237943.jpg",
+    "description": "Cheers · Season 5, Episode 9 · aired 1986-11-27\n\nThe gang gathers at Carla's house for a Thanksgiving dinner of frozen turkey and overdone peas.",
+    "releaseInfo": "1986",
+    "released": "1986-11-27T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0083399:5:9",
+        "title": "Thanksgiving Orphans",
+        "season": 5,
+        "episode": 9,
+        "released": "1986-11-27T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/495/1237943.jpg",
+        "overview": "The gang gathers at Carla's house for a Thanksgiving dinner of frozen turkey and overdone peas."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0083399:5:9"
+    }
+  }
+}

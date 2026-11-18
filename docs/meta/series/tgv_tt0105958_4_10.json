@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0105958_4_10",
+    "type": "series",
+    "name": "Boy Meets World: Turkey Day",
+    "poster": "https://images.metahub.space/poster/medium/tt0105958/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/308/770491.jpg",
+    "description": "Boy Meets World · Season 4, Episode 10 · aired 1996-11-22\n\nCory and Shawn convince their families to have Thanksgiving dinner together.",
+    "releaseInfo": "1996",
+    "released": "1996-11-22T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0105958:4:10",
+        "title": "Turkey Day",
+        "season": 4,
+        "episode": 10,
+        "released": "1996-11-22T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/308/770491.jpg",
+        "overview": "Cory and Shawn convince their families to have Thanksgiving dinner together."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0105958:4:10"
+    }
+  }
+}

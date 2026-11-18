@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0182576_10_6",
+    "type": "series",
+    "name": "Family Guy: Thanksgiving",
+    "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/89/224331.jpg",
+    "description": "Family Guy · Season 10, Episode 6 · aired 2011-11-20\n\nLois cooks a big Thanksgiving meal and invites the whole crew over for dinner, and Joe is shocked when his formerly M.I.A. son, Kevin Swanson, returns from Iraq.",
+    "releaseInfo": "2011",
+    "released": "2011-11-20T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0182576:10:6",
+        "title": "Thanksgiving",
+        "season": 10,
+        "episode": 6,
+        "released": "2011-11-20T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/89/224331.jpg",
+        "overview": "Lois cooks a big Thanksgiving meal and invites the whole crew over for dinner, and Joe is shocked when his formerly M.I.A. son, Kevin Swanson, returns from Iraq."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0182576:10:6"
+    }
+  }
+}

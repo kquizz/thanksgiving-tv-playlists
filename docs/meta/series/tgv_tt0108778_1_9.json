@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tgv_tt0108778_1_9",
+    "type": "series",
+    "name": "Friends: The One Where Underdog Gets Away",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/23/59116.jpg",
+    "description": "Friends · Season 1, Episode 9 · aired 1994-11-17\n\nMonica tries to cook Thanksgiving dinner for the gang; Ross relishes the chance to talk to his unborn child.",
+    "releaseInfo": "1994",
+    "released": "1994-11-17T00:00:00.000Z",
+    "videos": [
+      {
+        "id": "tt0108778:1:9",
+        "title": "The One Where Underdog Gets Away",
+        "season": 1,
+        "episode": 9,
+        "released": "1994-11-17T00:00:00.000Z",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/23/59116.jpg",
+        "overview": "Monica tries to cook Thanksgiving dinner for the gang; Ross relishes the chance to talk to his unborn child."
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tt0108778:1:9"
+    }
+  }
+}
