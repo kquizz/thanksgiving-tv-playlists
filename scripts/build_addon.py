@@ -23,6 +23,15 @@ CATALOGS = [
 ]
 
 
+# Playlists use IMDb/Cinemeta numbering, because that is what stream add-ons
+# match on. Where TVMaze numbers an episode differently, map it here so the
+# metadata lookup still finds the right episode.
+TVMAZE_NUMBERING = {
+    "tt0101188:4:22": (4, 13),  # Rugrats – The Turkey Who Came to Dinner
+    "tt0397306:10:5": (9, 5),   # American Dad! – Kung Pao Turkey
+}
+
+
 def write_json(path, obj):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -116,7 +125,8 @@ def main():
             summary = None
             if tid not in done:
                 show = show_for(imdb)
-                ep = fetch(f"{API}/shows/{show['id']}/episodebynumber?season={s}&number={e}") if show else None
+                ts, te = TVMAZE_NUMBERING.get(vid, (s, e))
+                ep = fetch(f"{API}/shows/{show['id']}/episodebynumber?season={ts}&number={te}") if show else None
                 if not show or not ep:
                     failures.append(vid)
                     print(f"  FAIL {vid} {name}", flush=True)

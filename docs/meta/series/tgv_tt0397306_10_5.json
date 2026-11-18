@@ -1,18 +1,18 @@
 {
   "meta": {
-    "id": "tgv_tt0397306_9_5",
+    "id": "tgv_tt0397306_10_5",
     "type": "series",
     "name": "American Dad!: Kung Pao Turkey",
     "poster": "https://images.metahub.space/poster/medium/tt0397306/img",
     "background": "https://static.tvmaze.com/uploads/images/original_untouched/84/211391.jpg",
-    "description": "American Dad! · Season 9, Episode 5 · aired 2013-11-24\n\nStan's plans for a perfect Thanksgiving watching football in his underwear are thwarted when Francine invites her adoptive parents to join them for the holiday. Meanwhile, Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over, but her true intentions are revealed at Thanksgiving dinner.",
+    "description": "American Dad! · Season 10, Episode 5 · aired 2013-11-24\n\nStan's plans for a perfect Thanksgiving watching football in his underwear are thwarted when Francine invites her adoptive parents to join them for the holiday. Meanwhile, Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over, but her true intentions are revealed at Thanksgiving dinner.",
     "releaseInfo": "2013",
     "released": "2013-11-24T00:00:00.000Z",
     "videos": [
       {
-        "id": "tt0397306:9:5",
+        "id": "tt0397306:10:5",
         "title": "Kung Pao Turkey",
-        "season": 9,
+        "season": 10,
         "episode": 5,
         "released": "2013-11-24T00:00:00.000Z",
         "thumbnail": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211391.jpg",
@@ -20,7 +20,7 @@
       }
     ],
     "behaviorHints": {
-      "defaultVideoId": "tt0397306:9:5"
+      "defaultVideoId": "tt0397306:10:5"
     }
   }
 }

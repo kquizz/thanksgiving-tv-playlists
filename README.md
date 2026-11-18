@@ -157,7 +157,7 @@ Install the add-on by pasting `https://kquizz.github.io/thanksgiving-tv-playlist
 |---|---|---|---|---|
 | 1 | 1973-11-20 | [A Charlie Brown Thanksgiving](https://www.imdb.com/title/tt0068359/) | special | (TV special) |
 | 2 | 1990-11-22 | [The Simpsons](https://www.imdb.com/title/tt0096697/) | S2E7 | Bart vs. Thanksgiving |
-| 3 | 1997-10-21 | [Rugrats](https://www.imdb.com/title/tt0101188/) | S4E13 | The Turkey Who Came to Dinner |
+| 3 | 1997-10-21 | [Rugrats](https://www.imdb.com/title/tt0101188/) | S4E22 | The Turkey Who Came to Dinner |
 | 4 | 1997-11-19 | [South Park](https://www.imdb.com/title/tt0121955/) | S1E8 | Starvin' Marvin |
 | 5 | 1998-11-18 | [Hey Arnold!](https://www.imdb.com/title/tt0115200/) | S3E14 | Arnold's Thanksgiving |
 | 6 | 1999-11-21 | [King of the Hill](https://www.imdb.com/title/tt0118375/) | S4E7 | The Hank's Giving Episode |
@@ -166,7 +166,7 @@ Install the add-on by pasting `https://kquizz.github.io/thanksgiving-tv-playlist
 | 9 | 2012-11-18 | [Bob's Burgers](https://www.imdb.com/title/tt1561755/) | S3E5 | An Indecent Thanksgiving Proposal |
 | 10 | 2012-11-25 | [The Cleveland Show](https://www.imdb.com/title/tt1195935/) | S4E4 | Turkey Pot Die |
 | 11 | 2013-11-24 | [Bob's Burgers](https://www.imdb.com/title/tt1561755/) | S4E5 | Turkey in a Can |
-| 12 | 2013-11-24 | [American Dad!](https://www.imdb.com/title/tt0397306/) | S9E5 | Kung Pao Turkey |
+| 12 | 2013-11-24 | [American Dad!](https://www.imdb.com/title/tt0397306/) | S10E5 | Kung Pao Turkey |
 | 13 | 2013-11-25 | [Regular Show](https://www.imdb.com/title/tt1710308/) | S5E12 | The Thanksgiving Special |
 | 14 | 2014-11-16 | [Family Guy](https://www.imdb.com/title/tt0182576/) | S13E5 | Turkey Guys |
 | 15 | 2014-11-23 | [Bob's Burgers](https://www.imdb.com/title/tt1561755/) | S5E4 | Dawn of the Peck |
@@ -236,7 +236,7 @@ Install the add-on by pasting `https://kquizz.github.io/thanksgiving-tv-playlist
 | 7 | 1996-11-22 | [Everybody Loves Raymond](https://www.imdb.com/title/tt0115167/) | S1E10 | Turkey or Fish |
 | 8 | 1996-11-22 | [Boy Meets World](https://www.imdb.com/title/tt0105958/) | S4E10 | Turkey Day |
 | 9 | 1996-11-26 | [Frasier](https://www.imdb.com/title/tt0106004/) | S4E7 | A Lilith Thanksgiving |
-| 10 | 1997-10-21 | [Rugrats](https://www.imdb.com/title/tt0101188/) | S4E13 | The Turkey Who Came to Dinner |
+| 10 | 1997-10-21 | [Rugrats](https://www.imdb.com/title/tt0101188/) | S4E22 | The Turkey Who Came to Dinner |
 | 11 | 1997-11-19 | [South Park](https://www.imdb.com/title/tt0121955/) | S1E8 | Starvin' Marvin |
 | 12 | 1997-11-20 | [Friends](https://www.imdb.com/title/tt0108778/) | S4E8 | The One With Chandler in a Box |
 | 13 | 1998-11-18 | [Hey Arnold!](https://www.imdb.com/title/tt0115200/) | S3E14 | Arnold's Thanksgiving |
@@ -295,7 +295,7 @@ Install the add-on by pasting `https://kquizz.github.io/thanksgiving-tv-playlist
 | 9 | 2012-11-25 | [The Cleveland Show](https://www.imdb.com/title/tt1195935/) | S4E4 | Turkey Pot Die |
 | 10 | 2013-03-07 | [Community](https://www.imdb.com/title/tt1439629/) | S4E5 | Cooperative Escapism in Familial Relations |
 | 11 | 2013-11-24 | [Bob's Burgers](https://www.imdb.com/title/tt1561755/) | S4E5 | Turkey in a Can |
-| 12 | 2013-11-24 | [American Dad!](https://www.imdb.com/title/tt0397306/) | S9E5 | Kung Pao Turkey |
+| 12 | 2013-11-24 | [American Dad!](https://www.imdb.com/title/tt0397306/) | S10E5 | Kung Pao Turkey |
 | 13 | 2013-11-25 | [Regular Show](https://www.imdb.com/title/tt1710308/) | S5E12 | The Thanksgiving Special |
 | 14 | 2013-11-26 | [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/) | S1E10 | Thanksgiving |
 | 15 | 2014-11-16 | [Family Guy](https://www.imdb.com/title/tt0182576/) | S13E5 | Turkey Guys |
