@@ -1,0 +1,73 @@
+{
+  "name": "1960s–80s",
+  "slug": "thanksgiving-60s-80s",
+  "count": 6,
+  "items": [
+    {
+      "show": "Bewitched",
+      "episode_title": "Samantha's Thanksgiving to Remember",
+      "type": "episode",
+      "season": 4,
+      "episode": 12,
+      "air_date": "1967-11-23",
+      "genre": "comedies",
+      "imdb_id": "tt0057733",
+      "stremio_id": "pl:tt0057733:4:12"
+    },
+    {
+      "show": "The Waltons",
+      "episode_title": "The Thanksgiving Story",
+      "type": "episode",
+      "season": 2,
+      "episode": 10,
+      "air_date": "1973-11-15",
+      "genre": "dramas",
+      "imdb_id": "tt0068149",
+      "stremio_id": "pl:tt0068149:2:10"
+    },
+    {
+      "show": "A Charlie Brown Thanksgiving",
+      "episode_title": "(TV special)",
+      "type": "movie",
+      "season": null,
+      "episode": null,
+      "air_date": "1973-11-20",
+      "genre": "animation",
+      "imdb_id": "tt0068359",
+      "stremio_id": "tt0068359"
+    },
+    {
+      "show": "The Bob Newhart Show",
+      "episode_title": "Over the River and Through the Woods",
+      "type": "episode",
+      "season": 4,
+      "episode": 11,
+      "air_date": "1975-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0068049",
+      "stremio_id": "pl:tt0068049:4:11"
+    },
+    {
+      "show": "WKRP in Cincinnati",
+      "episode_title": "Turkeys Away",
+      "type": "episode",
+      "season": 1,
+      "episode": 7,
+      "air_date": "1978-10-30",
+      "genre": "comedies",
+      "imdb_id": "tt0077097",
+      "stremio_id": "pl:tt0077097:1:7"
+    },
+    {
+      "show": "Cheers",
+      "episode_title": "Thanksgiving Orphans",
+      "type": "episode",
+      "season": 5,
+      "episode": 9,
+      "air_date": "1986-11-27",
+      "genre": "comedies",
+      "imdb_id": "tt0083399",
+      "stremio_id": "pl:tt0083399:5:9"
+    }
+  ]
+}

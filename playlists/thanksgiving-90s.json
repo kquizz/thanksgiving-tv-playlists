@@ -1,0 +1,249 @@
+{
+  "name": "1990s",
+  "slug": "thanksgiving-90s",
+  "count": 22,
+  "items": [
+    {
+      "show": "The Simpsons",
+      "episode_title": "Bart vs. Thanksgiving",
+      "type": "episode",
+      "season": 2,
+      "episode": 7,
+      "air_date": "1990-11-22",
+      "genre": "animation",
+      "imdb_id": "tt0096697",
+      "stremio_id": "pl:tt0096697:2:7"
+    },
+    {
+      "show": "Roseanne",
+      "episode_title": "Thanksgiving '91",
+      "type": "episode",
+      "season": 4,
+      "episode": 10,
+      "air_date": "1991-11-26",
+      "genre": "comedies",
+      "imdb_id": "tt0094540",
+      "stremio_id": "pl:tt0094540:4:10"
+    },
+    {
+      "show": "Party of Five",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 1,
+      "episode": 10,
+      "air_date": "1994-11-14",
+      "genre": "dramas",
+      "imdb_id": "tt0108894",
+      "stremio_id": "pl:tt0108894:1:10"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One Where Underdog Gets Away",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1994-11-17",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:1:9"
+    },
+    {
+      "show": "Seinfeld",
+      "episode_title": "The Mom & Pop Store",
+      "type": "episode",
+      "season": 6,
+      "episode": 8,
+      "air_date": "1994-11-17",
+      "genre": "comedies",
+      "imdb_id": "tt0098904",
+      "stremio_id": "pl:tt0098904:6:8"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One With the Football",
+      "type": "episode",
+      "season": 3,
+      "episode": 9,
+      "air_date": "1996-11-21",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:3:9"
+    },
+    {
+      "show": "Everybody Loves Raymond",
+      "episode_title": "Turkey or Fish",
+      "type": "episode",
+      "season": 1,
+      "episode": 10,
+      "air_date": "1996-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0115167",
+      "stremio_id": "pl:tt0115167:1:10"
+    },
+    {
+      "show": "Boy Meets World",
+      "episode_title": "Turkey Day",
+      "type": "episode",
+      "season": 4,
+      "episode": 10,
+      "air_date": "1996-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0105958",
+      "stremio_id": "pl:tt0105958:4:10"
+    },
+    {
+      "show": "Frasier",
+      "episode_title": "A Lilith Thanksgiving",
+      "type": "episode",
+      "season": 4,
+      "episode": 7,
+      "air_date": "1996-11-26",
+      "genre": "comedies",
+      "imdb_id": "tt0106004",
+      "stremio_id": "pl:tt0106004:4:7"
+    },
+    {
+      "show": "Rugrats",
+      "episode_title": "The Turkey Who Came to Dinner",
+      "type": "episode",
+      "season": 4,
+      "episode": 13,
+      "air_date": "1997-10-21",
+      "genre": "animation",
+      "imdb_id": "tt0101188",
+      "stremio_id": "pl:tt0101188:4:13"
+    },
+    {
+      "show": "South Park",
+      "episode_title": "Starvin' Marvin",
+      "type": "episode",
+      "season": 1,
+      "episode": 8,
+      "air_date": "1997-11-19",
+      "genre": "animation",
+      "imdb_id": "tt0121955",
+      "stremio_id": "pl:tt0121955:1:8"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One With Chandler in a Box",
+      "type": "episode",
+      "season": 4,
+      "episode": 8,
+      "air_date": "1997-11-20",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:4:8"
+    },
+    {
+      "show": "Hey Arnold!",
+      "episode_title": "Arnold's Thanksgiving",
+      "type": "episode",
+      "season": 3,
+      "episode": 14,
+      "air_date": "1998-11-18",
+      "genre": "animation",
+      "imdb_id": "tt0115200",
+      "stremio_id": "pl:tt0115200:3:14"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One With All the Thanksgivings",
+      "type": "episode",
+      "season": 5,
+      "episode": 8,
+      "air_date": "1998-11-19",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:5:8"
+    },
+    {
+      "show": "That '70s Show",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1998-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0165598",
+      "stremio_id": "pl:tt0165598:1:9"
+    },
+    {
+      "show": "Mad About You",
+      "episode_title": "The Thanksgiving Show",
+      "type": "episode",
+      "season": 7,
+      "episode": 7,
+      "air_date": "1998-11-24",
+      "genre": "comedies",
+      "imdb_id": "tt0103484",
+      "stremio_id": "pl:tt0103484:7:7"
+    },
+    {
+      "show": "Felicity",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1998-11-24",
+      "genre": "dramas",
+      "imdb_id": "tt0134247",
+      "stremio_id": "pl:tt0134247:1:9"
+    },
+    {
+      "show": "King of the Hill",
+      "episode_title": "The Hank's Giving Episode",
+      "type": "episode",
+      "season": 4,
+      "episode": 7,
+      "air_date": "1999-11-21",
+      "genre": "animation",
+      "imdb_id": "tt0118375",
+      "stremio_id": "pl:tt0118375:4:7"
+    },
+    {
+      "show": "Everybody Loves Raymond",
+      "episode_title": "No Thanks",
+      "type": "episode",
+      "season": 4,
+      "episode": 9,
+      "air_date": "1999-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0115167",
+      "stremio_id": "pl:tt0115167:4:9"
+    },
+    {
+      "show": "Buffy the Vampire Slayer",
+      "episode_title": "Pangs",
+      "type": "episode",
+      "season": 4,
+      "episode": 8,
+      "air_date": "1999-11-23",
+      "genre": "dramas",
+      "imdb_id": "tt0118276",
+      "stremio_id": "pl:tt0118276:4:8"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One Where Ross Got High",
+      "type": "episode",
+      "season": 6,
+      "episode": 9,
+      "air_date": "1999-11-25",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:6:9"
+    },
+    {
+      "show": "Will & Grace",
+      "episode_title": "Homo for the Holidays",
+      "type": "episode",
+      "season": 2,
+      "episode": 7,
+      "air_date": "1999-11-25",
+      "genre": "comedies",
+      "imdb_id": "tt0157246",
+      "stremio_id": "pl:tt0157246:2:7"
+    }
+  ]
+}

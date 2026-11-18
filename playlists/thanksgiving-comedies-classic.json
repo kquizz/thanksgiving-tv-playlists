@@ -1,0 +1,205 @@
+{
+  "name": "Comedies — Classic (pre-2000)",
+  "slug": "thanksgiving-comedies-classic",
+  "count": 18,
+  "items": [
+    {
+      "show": "Bewitched",
+      "episode_title": "Samantha's Thanksgiving to Remember",
+      "type": "episode",
+      "season": 4,
+      "episode": 12,
+      "air_date": "1967-11-23",
+      "genre": "comedies",
+      "imdb_id": "tt0057733",
+      "stremio_id": "pl:tt0057733:4:12"
+    },
+    {
+      "show": "The Bob Newhart Show",
+      "episode_title": "Over the River and Through the Woods",
+      "type": "episode",
+      "season": 4,
+      "episode": 11,
+      "air_date": "1975-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0068049",
+      "stremio_id": "pl:tt0068049:4:11"
+    },
+    {
+      "show": "WKRP in Cincinnati",
+      "episode_title": "Turkeys Away",
+      "type": "episode",
+      "season": 1,
+      "episode": 7,
+      "air_date": "1978-10-30",
+      "genre": "comedies",
+      "imdb_id": "tt0077097",
+      "stremio_id": "pl:tt0077097:1:7"
+    },
+    {
+      "show": "Cheers",
+      "episode_title": "Thanksgiving Orphans",
+      "type": "episode",
+      "season": 5,
+      "episode": 9,
+      "air_date": "1986-11-27",
+      "genre": "comedies",
+      "imdb_id": "tt0083399",
+      "stremio_id": "pl:tt0083399:5:9"
+    },
+    {
+      "show": "Roseanne",
+      "episode_title": "Thanksgiving '91",
+      "type": "episode",
+      "season": 4,
+      "episode": 10,
+      "air_date": "1991-11-26",
+      "genre": "comedies",
+      "imdb_id": "tt0094540",
+      "stremio_id": "pl:tt0094540:4:10"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One Where Underdog Gets Away",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1994-11-17",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:1:9"
+    },
+    {
+      "show": "Seinfeld",
+      "episode_title": "The Mom & Pop Store",
+      "type": "episode",
+      "season": 6,
+      "episode": 8,
+      "air_date": "1994-11-17",
+      "genre": "comedies",
+      "imdb_id": "tt0098904",
+      "stremio_id": "pl:tt0098904:6:8"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One With the Football",
+      "type": "episode",
+      "season": 3,
+      "episode": 9,
+      "air_date": "1996-11-21",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:3:9"
+    },
+    {
+      "show": "Everybody Loves Raymond",
+      "episode_title": "Turkey or Fish",
+      "type": "episode",
+      "season": 1,
+      "episode": 10,
+      "air_date": "1996-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0115167",
+      "stremio_id": "pl:tt0115167:1:10"
+    },
+    {
+      "show": "Boy Meets World",
+      "episode_title": "Turkey Day",
+      "type": "episode",
+      "season": 4,
+      "episode": 10,
+      "air_date": "1996-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0105958",
+      "stremio_id": "pl:tt0105958:4:10"
+    },
+    {
+      "show": "Frasier",
+      "episode_title": "A Lilith Thanksgiving",
+      "type": "episode",
+      "season": 4,
+      "episode": 7,
+      "air_date": "1996-11-26",
+      "genre": "comedies",
+      "imdb_id": "tt0106004",
+      "stremio_id": "pl:tt0106004:4:7"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One With Chandler in a Box",
+      "type": "episode",
+      "season": 4,
+      "episode": 8,
+      "air_date": "1997-11-20",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:4:8"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One With All the Thanksgivings",
+      "type": "episode",
+      "season": 5,
+      "episode": 8,
+      "air_date": "1998-11-19",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:5:8"
+    },
+    {
+      "show": "That '70s Show",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1998-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0165598",
+      "stremio_id": "pl:tt0165598:1:9"
+    },
+    {
+      "show": "Mad About You",
+      "episode_title": "The Thanksgiving Show",
+      "type": "episode",
+      "season": 7,
+      "episode": 7,
+      "air_date": "1998-11-24",
+      "genre": "comedies",
+      "imdb_id": "tt0103484",
+      "stremio_id": "pl:tt0103484:7:7"
+    },
+    {
+      "show": "Everybody Loves Raymond",
+      "episode_title": "No Thanks",
+      "type": "episode",
+      "season": 4,
+      "episode": 9,
+      "air_date": "1999-11-22",
+      "genre": "comedies",
+      "imdb_id": "tt0115167",
+      "stremio_id": "pl:tt0115167:4:9"
+    },
+    {
+      "show": "Friends",
+      "episode_title": "The One Where Ross Got High",
+      "type": "episode",
+      "season": 6,
+      "episode": 9,
+      "air_date": "1999-11-25",
+      "genre": "comedies",
+      "imdb_id": "tt0108778",
+      "stremio_id": "pl:tt0108778:6:9"
+    },
+    {
+      "show": "Will & Grace",
+      "episode_title": "Homo for the Holidays",
+      "type": "episode",
+      "season": 2,
+      "episode": 7,
+      "air_date": "1999-11-25",
+      "genre": "comedies",
+      "imdb_id": "tt0157246",
+      "stremio_id": "pl:tt0157246:2:7"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "name": "Dramas",
+  "slug": "thanksgiving-dramas",
+  "count": 17,
+  "items": [
+    {
+      "show": "The Waltons",
+      "episode_title": "The Thanksgiving Story",
+      "type": "episode",
+      "season": 2,
+      "episode": 10,
+      "air_date": "1973-11-15",
+      "genre": "dramas",
+      "imdb_id": "tt0068149",
+      "stremio_id": "pl:tt0068149:2:10"
+    },
+    {
+      "show": "Party of Five",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 1,
+      "episode": 10,
+      "air_date": "1994-11-14",
+      "genre": "dramas",
+      "imdb_id": "tt0108894",
+      "stremio_id": "pl:tt0108894:1:10"
+    },
+    {
+      "show": "Felicity",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1998-11-24",
+      "genre": "dramas",
+      "imdb_id": "tt0134247",
+      "stremio_id": "pl:tt0134247:1:9"
+    },
+    {
+      "show": "Buffy the Vampire Slayer",
+      "episode_title": "Pangs",
+      "type": "episode",
+      "season": 4,
+      "episode": 8,
+      "air_date": "1999-11-23",
+      "genre": "dramas",
+      "imdb_id": "tt0118276",
+      "stremio_id": "pl:tt0118276:4:8"
+    },
+    {
+      "show": "The West Wing",
+      "episode_title": "Shibboleth",
+      "type": "episode",
+      "season": 2,
+      "episode": 8,
+      "air_date": "2000-11-22",
+      "genre": "dramas",
+      "imdb_id": "tt0200276",
+      "stremio_id": "pl:tt0200276:2:8"
+    },
+    {
+      "show": "The Sopranos",
+      "episode_title": "He is Risen",
+      "type": "episode",
+      "season": 3,
+      "episode": 8,
+      "air_date": "2001-04-15",
+      "genre": "dramas",
+      "imdb_id": "tt0141842",
+      "stremio_id": "pl:tt0141842:3:8"
+    },
+    {
+      "show": "Everwood",
+      "episode_title": "A Thanksgiving Tale",
+      "type": "episode",
+      "season": 1,
+      "episode": 11,
+      "air_date": "2002-11-25",
+      "genre": "dramas",
+      "imdb_id": "tt0318883",
+      "stremio_id": "pl:tt0318883:1:11"
+    },
+    {
+      "show": "Grey's Anatomy",
+      "episode_title": "Thanks for the Memories",
+      "type": "episode",
+      "season": 2,
+      "episode": 9,
+      "air_date": "2005-11-20",
+      "genre": "dramas",
+      "imdb_id": "tt0413573",
+      "stremio_id": "pl:tt0413573:2:9"
+    },
+    {
+      "show": "Ugly Betty",
+      "episode_title": "Four Thanksgivings and a Funeral",
+      "type": "episode",
+      "season": 1,
+      "episode": 8,
+      "air_date": "2006-11-16",
+      "genre": "dramas",
+      "imdb_id": "tt0805669",
+      "stremio_id": "pl:tt0805669:1:8"
+    },
+    {
+      "show": "Gossip Girl",
+      "episode_title": "Blair Waldorf Must Pie!",
+      "type": "episode",
+      "season": 1,
+      "episode": 9,
+      "air_date": "2007-11-28",
+      "genre": "dramas",
+      "imdb_id": "tt0397442",
+      "stremio_id": "pl:tt0397442:1:9"
+    },
+    {
+      "show": "Dexter",
+      "episode_title": "Hungry Man",
+      "type": "episode",
+      "season": 4,
+      "episode": 9,
+      "air_date": "2009-11-22",
+      "genre": "dramas",
+      "imdb_id": "tt0773262",
+      "stremio_id": "pl:tt0773262:4:9"
+    },
+    {
+      "show": "Gossip Girl",
+      "episode_title": "The Treasure of Serena Madre",
+      "type": "episode",
+      "season": 3,
+      "episode": 11,
+      "air_date": "2009-11-30",
+      "genre": "dramas",
+      "imdb_id": "tt0397442",
+      "stremio_id": "pl:tt0397442:3:11"
+    },
+    {
+      "show": "Friday Night Lights",
+      "episode_title": "Thanksgiving",
+      "type": "episode",
+      "season": 4,
+      "episode": 13,
+      "air_date": "2010-02-10",
+      "genre": "dramas",
+      "imdb_id": "tt0758745",
+      "stremio_id": "pl:tt0758745:4:13"
+    },
+    {
+      "show": "Parenthood",
+      "episode_title": "Happy Thanksgiving",
+      "type": "episode",
+      "season": 2,
+      "episode": 10,
+      "air_date": "2010-11-23",
+      "genre": "dramas",
+      "imdb_id": "tt1416765",
+      "stremio_id": "pl:tt1416765:2:10"
+    },
+    {
+      "show": "This Is Us",
+      "episode_title": "Pilgrim Rick",
+      "type": "episode",
+      "season": 1,
+      "episode": 8,
+      "air_date": "2016-11-22",
+      "genre": "dramas",
+      "imdb_id": "tt5555260",
+      "stremio_id": "pl:tt5555260:1:8"
+    },
+    {
+      "show": "Succession",
+      "episode_title": "I Went to Market",
+      "type": "episode",
+      "season": 1,
+      "episode": 5,
+      "air_date": "2018-07-01",
+      "genre": "dramas",
+      "imdb_id": "tt7660850",
+      "stremio_id": "pl:tt7660850:1:5"
+    },
+    {
+      "show": "This Is Us",
+      "episode_title": "Six Thanksgivings",
+      "type": "episode",
+      "season": 3,
+      "episode": 8,
+      "air_date": "2018-11-20",
+      "genre": "dramas",
+      "imdb_id": "tt5555260",
+      "stremio_id": "pl:tt5555260:3:8"
+    }
+  ]
+}
